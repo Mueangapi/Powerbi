@@ -1,0 +1,955 @@
+Row ID,Order Date,Ship Date,Ship Mode,Customer Name,Segment,City,State,Region,Category,Sub-Category,Cost (US dollar),Quantity,Cost-per-piece,Wait-Duration
+1,2016-11-08,2016-11-11,Second Class,Claire Gute,Consumer,Henderson,Kentucky,South,Furniture,Bookcases,261.96,2,130.98,3
+2,2016-11-08,2016-11-11,Second Class,Claire Gute,Consumer,Henderson,Kentucky,South,Furniture,Chairs,731.94,3,243.98,3
+3,2016-06-12,2016-06-16,Second Class,Darrin Van Huff,Corporate,Los Angeles,California,West,Office Supplies,Labels,14.62,2,7.31,4
+4,2015-10-11,2015-10-18,Standard Class,Sean O'Donnell,Consumer,Fort Lauderdale,Florida,South,Furniture,Tables,957.5775,5,191.5155,7
+5,2015-10-11,2015-10-18,Standard Class,Sean O'Donnell,Consumer,Fort Lauderdale,Florida,South,Office Supplies,Storage,22.368,2,11.184,7
+6,2014-06-09,2014-06-14,Standard Class,Brosina Hoffman,Consumer,Los Angeles,California,West,Furniture,Furnishings,48.86,7,6.98,5
+7,2014-06-09,2014-06-14,Standard Class,Brosina Hoffman,Consumer,Los Angeles,California,West,Office Supplies,Art,7.28,4,1.82,5
+8,2014-06-09,2014-06-14,Standard Class,Brosina Hoffman,Consumer,Los Angeles,California,West,Technology,Phones,907.152,6,151.192,5
+9,2014-06-09,2014-06-14,Standard Class,Brosina Hoffman,Consumer,Los Angeles,California,West,Office Supplies,Binders,18.504,3,6.168,5
+10,2014-06-09,2014-06-14,Standard Class,Brosina Hoffman,Consumer,Los Angeles,California,West,Office Supplies,Appliances,114.9,5,22.98,5
+11,2014-06-09,2014-06-14,Standard Class,Brosina Hoffman,Consumer,Los Angeles,California,West,Furniture,Tables,1706.184,9,189.576,5
+12,2014-06-09,2014-06-14,Standard Class,Brosina Hoffman,Consumer,Los Angeles,California,West,Technology,Phones,911.424,4,227.856,5
+13,2017-04-15,2017-04-20,Standard Class,Andrew Allen,Consumer,Concord,North Carolina,South,Office Supplies,Paper,15.552,3,5.184,5
+14,2016-12-05,2016-12-10,Standard Class,Irene Maddox,Consumer,Seattle,Washington,West,Office Supplies,Binders,407.976,3,135.992,5
+15,2015-11-22,2015-11-26,Standard Class,Harold Pawlan,Home Office,Fort Worth,Texas,Central,Office Supplies,Appliances,68.81,5,13.762,4
+16,2015-11-22,2015-11-26,Standard Class,Harold Pawlan,Home Office,Fort Worth,Texas,Central,Office Supplies,Binders,2.544,3,0.848,4
+17,2014-11-11,2014-11-18,Standard Class,Pete Kriz,Consumer,Madison,Wisconsin,Central,Office Supplies,Storage,665.88,6,110.98,7
+18,2014-05-13,2014-05-15,Second Class,Alejandro Grove,Consumer,West Jordan,Utah,West,Office Supplies,Storage,55.5,2,27.75,2
+19,2014-08-27,2014-09-01,Second Class,Zuschuss Donatelli,Consumer,San Francisco,California,West,Office Supplies,Art,8.56,2,4.28,5
+20,2014-08-27,2014-09-01,Second Class,Zuschuss Donatelli,Consumer,San Francisco,California,West,Technology,Phones,213.48,3,71.16,5
+21,2014-08-27,2014-09-01,Second Class,Zuschuss Donatelli,Consumer,San Francisco,California,West,Office Supplies,Binders,22.72,4,5.68,5
+22,2016-12-09,2016-12-13,Standard Class,Ken Black,Corporate,Fremont,Nebraska,Central,Office Supplies,Art,19.46,7,2.78,4
+23,2016-12-09,2016-12-13,Standard Class,Ken Black,Corporate,Fremont,Nebraska,Central,Office Supplies,Appliances,60.34,7,8.62,4
+24,2017-07-16,2017-07-18,Second Class,Sandra Flanagan,Consumer,Philadelphia,Pennsylvania,East,Furniture,Chairs,71.372,2,35.686,2
+25,2015-09-25,2015-09-30,Standard Class,Emily Burns,Consumer,Orem,Utah,West,Furniture,Tables,1044.63,3,348.21,5
+26,2016-01-16,2016-01-20,Second Class,Eric Hoffmann,Consumer,Los Angeles,California,West,Office Supplies,Binders,11.648,2,5.824,4
+27,2016-01-16,2016-01-20,Second Class,Eric Hoffmann,Consumer,Los Angeles,California,West,Technology,Accessories,90.57,3,30.19,4
+28,2015-09-17,2015-09-21,Standard Class,Tracy Blumstein,Consumer,Philadelphia,Pennsylvania,East,Furniture,Bookcases,3083.43,7,440.49,4
+29,2015-09-17,2015-09-21,Standard Class,Tracy Blumstein,Consumer,Philadelphia,Pennsylvania,East,Office Supplies,Binders,9.618,2,4.809,4
+30,2015-09-17,2015-09-21,Standard Class,Tracy Blumstein,Consumer,Philadelphia,Pennsylvania,East,Furniture,Furnishings,124.2,3,41.4,4
+31,2015-09-17,2015-09-21,Standard Class,Tracy Blumstein,Consumer,Philadelphia,Pennsylvania,East,Office Supplies,Envelopes,3.264,2,1.632,4
+32,2015-09-17,2015-09-21,Standard Class,Tracy Blumstein,Consumer,Philadelphia,Pennsylvania,East,Office Supplies,Art,86.304,6,14.384,4
+33,2015-09-17,2015-09-21,Standard Class,Tracy Blumstein,Consumer,Philadelphia,Pennsylvania,East,Office Supplies,Binders,6.858,6,1.143,4
+34,2015-09-17,2015-09-21,Standard Class,Tracy Blumstein,Consumer,Philadelphia,Pennsylvania,East,Office Supplies,Art,15.76,2,7.88,4
+35,2017-10-19,2017-10-23,Second Class,Matt Abelman,Home Office,Houston,Texas,Central,Office Supplies,Paper,29.472,3,9.824,4
+36,2016-12-08,2016-12-10,First Class,Gene Hale,Corporate,Richardson,Texas,Central,Technology,Phones,1097.544,7,156.792,2
+37,2016-12-08,2016-12-10,First Class,Gene Hale,Corporate,Richardson,Texas,Central,Furniture,Furnishings,190.92,5,38.184,2
+38,2015-12-27,2015-12-31,Standard Class,Steve Nguyen,Home Office,Houston,Texas,Central,Office Supplies,Envelopes,113.328,9,12.592,4
+39,2015-12-27,2015-12-31,Standard Class,Steve Nguyen,Home Office,Houston,Texas,Central,Furniture,Bookcases,532.3992,3,177.4664,4
+40,2015-12-27,2015-12-31,Standard Class,Steve Nguyen,Home Office,Houston,Texas,Central,Furniture,Chairs,212.058,3,70.686,4
+41,2015-12-27,2015-12-31,Standard Class,Steve Nguyen,Home Office,Houston,Texas,Central,Technology,Phones,371.168,4,92.792,4
+42,2017-09-10,2017-09-15,Standard Class,Linda Cazamias,Corporate,Naperville,Illinois,Central,Technology,Phones,147.168,4,36.792,5
+43,2016-07-17,2016-07-22,Standard Class,Ruben Ausman,Corporate,Los Angeles,California,West,Office Supplies,Storage,77.88,2,38.94,5
+45,2016-03-11,2016-03-13,First Class,Odella Nelson,Corporate,Eagan,Minnesota,Central,Technology,Accessories,45.98,2,22.99,2
+46,2016-03-11,2016-03-13,First Class,Odella Nelson,Corporate,Eagan,Minnesota,Central,Office Supplies,Binders,17.46,2,8.73,2
+47,2014-10-20,2014-10-25,Second Class,Patrick O'Donnell,Consumer,Westland,Michigan,Central,Office Supplies,Storage,211.96,4,52.99,5
+50,2015-04-18,2015-04-22,Standard Class,Darren Powers,Consumer,New Albany,Indiana,Central,Office Supplies,Binders,38.22,6,6.37,4
+51,2015-04-18,2015-04-22,Standard Class,Darren Powers,Consumer,New Albany,Indiana,Central,Office Supplies,Labels,75.18,6,12.53,4
+52,2015-04-18,2015-04-22,Standard Class,Darren Powers,Consumer,New Albany,Indiana,Central,Furniture,Furnishings,6.16,2,3.08,4
+53,2015-04-18,2015-04-22,Standard Class,Darren Powers,Consumer,New Albany,Indiana,Central,Furniture,Chairs,89.99,1,89.99,4
+54,2016-12-11,2016-12-17,Standard Class,Janet Molinari,Corporate,New York City,New York,East,Office Supplies,Fasteners,15.26,7,2.18,6
+55,2016-12-11,2016-12-17,Standard Class,Janet Molinari,Corporate,New York City,New York,East,Technology,Phones,1029.95,5,205.99,6
+56,2016-06-17,2016-06-18,First Class,Ted Butterfield,Consumer,Troy,New York,East,Office Supplies,Storage,208.56,6,34.76,1
+57,2016-06-17,2016-06-18,First Class,Ted Butterfield,Consumer,Troy,New York,East,Office Supplies,Paper,32.4,5,6.48,1
+58,2016-06-17,2016-06-18,First Class,Ted Butterfield,Consumer,Troy,New York,East,Furniture,Chairs,319.41,5,63.882,1
+59,2016-06-17,2016-06-18,First Class,Ted Butterfield,Consumer,Troy,New York,East,Office Supplies,Paper,14.56,2,7.28,1
+60,2016-06-17,2016-06-18,First Class,Ted Butterfield,Consumer,Troy,New York,East,Technology,Accessories,30,2,15,1
+61,2016-06-17,2016-06-18,First Class,Ted Butterfield,Consumer,Troy,New York,East,Office Supplies,Binders,48.48,4,12.12,1
+62,2016-06-17,2016-06-18,First Class,Ted Butterfield,Consumer,Troy,New York,East,Office Supplies,Art,1.68,1,1.68,1
+63,2015-11-24,2015-11-30,Standard Class,Kunst Miller,Consumer,Los Angeles,California,West,Technology,Accessories,13.98,2,6.99,6
+64,2015-11-24,2015-11-30,Standard Class,Kunst Miller,Consumer,Los Angeles,California,West,Office Supplies,Binders,25.824,6,4.304,6
+65,2015-11-24,2015-11-30,Standard Class,Kunst Miller,Consumer,Los Angeles,California,West,Office Supplies,Paper,146.73,3,48.91,6
+66,2015-11-24,2015-11-30,Standard Class,Kunst Miller,Consumer,Los Angeles,California,West,Furniture,Furnishings,79.76,4,19.94,6
+67,2015-04-30,2015-05-05,Standard Class,Paul Stevenson,Home Office,Chicago,Illinois,Central,Furniture,Chairs,213.115,5,42.623,5
+68,2014-12-05,2014-12-10,Standard Class,Brendan Sweed,Corporate,Gilbert,Arizona,West,Office Supplies,Art,1113.024,8,139.128,5
+69,2014-12-05,2014-12-10,Standard Class,Brendan Sweed,Corporate,Gilbert,Arizona,West,Technology,Phones,167.968,4,41.992,5
+70,2016-06-04,2016-06-06,First Class,Karen Daniels,Consumer,Springfield,Virginia,South,Office Supplies,Paper,75.88,2,37.94,2
+71,2016-09-18,2016-09-23,Standard Class,Henry MacAllister,Consumer,New York City,New York,East,Office Supplies,Binders,4.616,1,4.616,5
+72,2017-09-14,2017-09-17,Second Class,Tracy Blumstein,Consumer,Jackson,Michigan,Central,Office Supplies,Paper,19.05,3,6.35,3
+73,2015-04-26,2015-05-02,Standard Class,Joel Eaton,Consumer,Memphis,Tennessee,South,Furniture,Chairs,831.936,8,103.992,6
+74,2015-04-26,2015-05-02,Standard Class,Joel Eaton,Consumer,Memphis,Tennessee,South,Furniture,Furnishings,97.04,2,48.52,6
+75,2015-04-26,2015-05-02,Standard Class,Joel Eaton,Consumer,Memphis,Tennessee,South,Office Supplies,Storage,72.784,1,72.784,6
+76,2017-12-09,2017-12-11,First Class,Ken Brennan,Corporate,Houston,Texas,Central,Office Supplies,Binders,1.248,3,0.416,2
+77,2017-12-09,2017-12-11,First Class,Ken Brennan,Corporate,Houston,Texas,Central,Furniture,Furnishings,9.708,3,3.236,2
+78,2017-12-09,2017-12-11,First Class,Ken Brennan,Corporate,Houston,Texas,Central,Office Supplies,Storage,27.24,3,9.08,2
+79,2014-11-26,2014-12-01,Second Class,Joel Eaton,Consumer,Houston,Texas,Central,Furniture,Furnishings,19.3,5,3.86,5
+80,2016-06-12,2016-06-15,First Class,Stewart Carmichael,Corporate,Decatur,Alabama,South,Office Supplies,Appliances,208.16,1,208.16,3
+81,2016-06-12,2016-06-15,First Class,Stewart Carmichael,Corporate,Decatur,Alabama,South,Office Supplies,Binders,16.74,3,5.58,3
+82,2014-10-12,2014-10-16,Standard Class,Duane Noonan,Consumer,San Francisco,California,West,Office Supplies,Art,14.9,5,2.98,4
+83,2014-10-12,2014-10-16,Standard Class,Duane Noonan,Consumer,San Francisco,California,West,Office Supplies,Storage,21.39,1,21.39,4
+84,2015-09-03,2015-09-08,Standard Class,Julie Creighton,Corporate,Durham,North Carolina,South,Office Supplies,Envelopes,200.984,7,28.712,5
+85,2017-11-13,2017-11-16,First Class,Christopher Schild,Home Office,Chicago,Illinois,Central,Office Supplies,Storage,230.376,3,76.792,3
+86,2017-05-28,2017-05-30,Second Class,Patrick O'Donnell,Consumer,Columbia,South Carolina,South,Furniture,Chairs,301.96,2,150.98,2
+87,2017-10-26,2017-11-02,Standard Class,Paul Gonzalez,Consumer,Rochester,Minnesota,Central,Technology,Accessories,19.99,1,19.99,7
+88,2017-10-26,2017-11-02,Standard Class,Paul Gonzalez,Consumer,Rochester,Minnesota,Central,Office Supplies,Labels,6.16,2,3.08,7
+89,2016-04-05,2016-04-10,Second Class,Gary Mitchum,Home Office,Houston,Texas,Central,Office Supplies,Storage,158.368,7,22.624,5
+90,2016-09-17,2016-09-22,Standard Class,Jim Sink,Corporate,Los Angeles,California,West,Office Supplies,Art,20.1,3,6.7,5
+91,2016-09-17,2016-09-22,Standard Class,Jim Sink,Corporate,Los Angeles,California,West,Technology,Phones,73.584,2,36.792,5
+92,2016-09-17,2016-09-22,Standard Class,Jim Sink,Corporate,Los Angeles,California,West,Office Supplies,Paper,6.48,1,6.48,5
+93,2015-01-31,2015-02-05,Second Class,Karl Braun,Consumer,Minneapolis,Minnesota,Central,Office Supplies,Paper,12.96,2,6.48,5
+94,2015-01-31,2015-02-05,Second Class,Karl Braun,Consumer,Minneapolis,Minnesota,Central,Furniture,Furnishings,53.34,3,17.78,5
+95,2015-01-31,2015-02-05,Second Class,Karl Braun,Consumer,Minneapolis,Minnesota,Central,Office Supplies,Binders,32.96,2,16.48,5
+96,2017-11-06,2017-11-12,Standard Class,Roger Barcio,Home Office,Portland,Oregon,West,Office Supplies,Binders,5.682,1,5.682,6
+97,2017-11-09,2017-11-11,Second Class,Parhena Norris,Home Office,New York City,New York,East,Furniture,Furnishings,96.53,7,13.79,2
+98,2017-06-17,2017-06-20,First Class,Katherine Ducich,Consumer,San Francisco,California,West,Office Supplies,Binders,51.312,3,17.104,3
+99,2016-09-06,2016-09-11,Standard Class,Elpida Rittenbach,Corporate,Saint Paul,Minnesota,Central,Office Supplies,Appliances,77.88,6,12.98,5
+100,2016-08-29,2016-09-02,Standard Class,Rick Bensley,Home Office,Chicago,Illinois,Central,Office Supplies,Paper,64.624,7,9.232,4
+101,2016-08-29,2016-09-02,Standard Class,Rick Bensley,Home Office,Chicago,Illinois,Central,Technology,Accessories,95.976,3,31.992,4
+102,2016-08-29,2016-09-02,Standard Class,Rick Bensley,Home Office,Chicago,Illinois,Central,Office Supplies,Binders,1.788,3,0.596,4
+103,2016-12-01,2016-12-04,Second Class,Gary Zandusky,Consumer,Rochester,Minnesota,Central,Office Supplies,Paper,23.92,4,5.98,3
+104,2015-11-13,2015-11-17,Standard Class,Lena Cacioppo,Consumer,Aurora,Colorado,West,Technology,Accessories,238.896,6,39.816,4
+105,2015-11-13,2015-11-17,Standard Class,Lena Cacioppo,Consumer,Aurora,Colorado,West,Furniture,Furnishings,102.36,3,34.12,4
+106,2015-11-13,2015-11-17,Standard Class,Lena Cacioppo,Consumer,Aurora,Colorado,West,Office Supplies,Binders,36.882,3,12.294,4
+107,2017-11-23,2017-11-28,Standard Class,Janet Martin,Consumer,Charlotte,North Carolina,South,Technology,Accessories,74.112,8,9.264,5
+108,2017-11-23,2017-11-28,Standard Class,Janet Martin,Consumer,Charlotte,North Carolina,South,Technology,Phones,27.992,1,27.992,5
+109,2017-11-23,2017-11-28,Standard Class,Janet Martin,Consumer,Charlotte,North Carolina,South,Office Supplies,Art,3.304,1,3.304,5
+110,2015-10-15,2015-10-20,Standard Class,Pete Armstrong,Home Office,Orland Park,Illinois,Central,Technology,Accessories,339.96,5,67.992,5
+111,2017-12-25,2017-12-30,Standard Class,Cynthia Voltz,Corporate,New York City,New York,East,Furniture,Furnishings,41.96,2,20.98,5
+112,2016-11-03,2016-11-10,Standard Class,Clay Ludtke,Consumer,Urbandale,Iowa,Central,Office Supplies,Art,75.96,2,37.98,7
+113,2016-11-03,2016-11-10,Standard Class,Clay Ludtke,Consumer,Urbandale,Iowa,Central,Office Supplies,Binders,27.24,6,4.54,7
+114,2014-08-25,2014-08-27,Second Class,Ryan Crowe,Consumer,Columbus,Ohio,East,Office Supplies,Fasteners,40.096,14,2.864,2
+115,2014-08-25,2014-08-27,Second Class,Ryan Crowe,Consumer,Columbus,Ohio,East,Office Supplies,Envelopes,4.72,2,2.36,2
+116,2014-08-25,2014-08-27,Second Class,Ryan Crowe,Consumer,Columbus,Ohio,East,Office Supplies,Paper,23.976,3,7.992,2
+117,2014-08-25,2014-08-27,Second Class,Ryan Crowe,Consumer,Columbus,Ohio,East,Office Supplies,Envelopes,130.464,6,21.744,2
+118,2015-03-02,2015-03-06,Standard Class,Dave Kipp,Consumer,Seattle,Washington,West,Furniture,Tables,787.53,3,262.51,4
+120,2016-06-12,2016-06-15,First Class,Steven Cartwright,Consumer,Wilmington,Delaware,East,Furniture,Furnishings,47.04,3,15.68,3
+121,2016-06-12,2016-06-15,First Class,Steven Cartwright,Consumer,Wilmington,Delaware,East,Office Supplies,Binders,30.84,4,7.71,3
+122,2016-06-12,2016-06-15,First Class,Steven Cartwright,Consumer,Wilmington,Delaware,East,Office Supplies,Storage,226.56,6,37.76,3
+123,2016-06-12,2016-06-15,First Class,Steven Cartwright,Consumer,Wilmington,Delaware,East,Office Supplies,Envelopes,115.02,9,12.78,3
+124,2016-06-12,2016-06-15,First Class,Steven Cartwright,Consumer,Wilmington,Delaware,East,Technology,Phones,68.04,7,9.72,3
+125,2014-12-26,2014-12-28,Second Class,Alan Dominguez,Home Office,Houston,Texas,Central,Furniture,Chairs,600.558,3,200.186,2
+126,2014-09-20,2014-09-25,Standard Class,Philip Fox,Consumer,Bloomington,Illinois,Central,Furniture,Tables,617.7,6,102.95,5
+127,2017-11-05,2017-11-12,Standard Class,Troy Staebel,Consumer,Phoenix,Arizona,West,Office Supplies,Binders,2.388,2,1.194,7
+128,2017-11-05,2017-11-12,Standard Class,Troy Staebel,Consumer,Phoenix,Arizona,West,Office Supplies,Storage,243.992,7,34.856,7
+129,2016-11-06,2016-11-10,Second Class,Lindsay Shagiari,Home Office,Los Angeles,California,West,Furniture,Chairs,81.424,2,40.712,4
+130,2016-11-06,2016-11-10,Second Class,Lindsay Shagiari,Home Office,Los Angeles,California,West,Furniture,Furnishings,238.56,3,79.52,4
+131,2017-02-02,2017-02-05,First Class,Dorothy Wardle,Corporate,Columbus,Ohio,East,Technology,Phones,59.97,5,11.994,3
+132,2017-02-02,2017-02-05,First Class,Dorothy Wardle,Corporate,Columbus,Ohio,East,Office Supplies,Paper,78.304,2,39.152,3
+133,2017-02-02,2017-02-05,First Class,Dorothy Wardle,Corporate,Columbus,Ohio,East,Office Supplies,Fasteners,21.456,9,2.384,3
+134,2016-10-13,2016-10-19,Standard Class,Lena Creighton,Consumer,Roseville,California,West,Office Supplies,Paper,20.04,3,6.68,6
+135,2016-10-13,2016-10-19,Standard Class,Lena Creighton,Consumer,Roseville,California,West,Office Supplies,Paper,35.44,1,35.44,6
+136,2016-10-13,2016-10-19,Standard Class,Lena Creighton,Consumer,Roseville,California,West,Office Supplies,Art,11.52,4,2.88,6
+137,2016-10-13,2016-10-19,Standard Class,Lena Creighton,Consumer,Roseville,California,West,Office Supplies,Fasteners,4.02,2,2.01,6
+138,2016-10-13,2016-10-19,Standard Class,Lena Creighton,Consumer,Roseville,California,West,Office Supplies,Binders,76.176,3,25.392,6
+139,2016-10-13,2016-10-19,Standard Class,Lena Creighton,Consumer,Roseville,California,West,Office Supplies,Supplies,65.88,6,10.98,6
+140,2016-10-13,2016-10-19,Standard Class,Lena Creighton,Consumer,Roseville,California,West,Furniture,Furnishings,43.12,14,3.08,6
+141,2016-09-05,2016-09-07,Second Class,Jonathan Doherty,Corporate,Philadelphia,Pennsylvania,East,Furniture,Furnishings,82.8,2,41.4,2
+142,2017-09-18,2017-09-23,Standard Class,Sally Hughsby,Corporate,San Francisco,California,West,Office Supplies,Art,8.82,3,2.94,5
+143,2017-09-18,2017-09-23,Standard Class,Sally Hughsby,Corporate,San Francisco,California,West,Office Supplies,Envelopes,10.86,3,3.62,5
+144,2017-09-18,2017-09-23,Standard Class,Sally Hughsby,Corporate,San Francisco,California,West,Office Supplies,Paper,143.7,3,47.9,5
+145,2017-12-22,2017-12-27,Standard Class,Sandra Glassco,Consumer,Independence,Missouri,Central,Office Supplies,Appliances,839.43,3,279.81,5
+146,2015-09-07,2015-09-12,Standard Class,Helen Andreada,Consumer,Pasadena,California,West,Office Supplies,Storage,671.93,7,95.99,5
+147,2014-10-22,2014-10-28,Standard Class,Maureen Gastineau,Home Office,Newark,Ohio,East,Furniture,Furnishings,93.888,4,23.472,6
+148,2016-12-05,2016-12-09,Standard Class,Justin Ellison,Corporate,Franklin,Wisconsin,Central,Technology,Phones,384.45,11,34.95,4
+149,2016-12-05,2016-12-09,Standard Class,Justin Ellison,Corporate,Franklin,Wisconsin,Central,Technology,Phones,149.97,3,49.99,4
+150,2016-12-05,2016-12-09,Standard Class,Justin Ellison,Corporate,Franklin,Wisconsin,Central,Furniture,Chairs,1951.84,8,243.98,4
+151,2016-12-05,2016-12-09,Standard Class,Justin Ellison,Corporate,Franklin,Wisconsin,Central,Office Supplies,Binders,171.55,5,34.31,4
+152,2016-03-13,2016-03-16,First Class,Tamara Willingham,Home Office,Scottsdale,Arizona,West,Office Supplies,Appliances,157.92,5,31.584,3
+153,2016-03-13,2016-03-16,First Class,Tamara Willingham,Home Office,Scottsdale,Arizona,West,Technology,Phones,203.184,2,101.592,3
+154,2015-05-31,2015-06-02,First Class,Stephanie Phelps,Corporate,San Jose,California,West,Office Supplies,Paper,58.38,7,8.34,2
+155,2015-05-31,2015-06-02,First Class,Stephanie Phelps,Corporate,San Jose,California,West,Office Supplies,Paper,105.52,4,26.38,2
+156,2015-05-31,2015-06-02,First Class,Stephanie Phelps,Corporate,San Jose,California,West,Office Supplies,Storage,80.88,6,13.48,2
+157,2015-05-28,2015-06-03,Standard Class,Neil Knudson,Home Office,Seattle,Washington,West,Office Supplies,Art,6.63,3,2.21,6
+158,2014-03-01,2014-03-06,Second Class,Dave Brooks,Consumer,Seattle,Washington,West,Furniture,Chairs,457.568,2,228.784,5
+159,2016-11-20,2016-11-24,Standard Class,Nora Paige,Consumer,Edmond,Oklahoma,Central,Office Supplies,Labels,14.62,2,7.31,4
+160,2016-11-20,2016-11-24,Standard Class,Nora Paige,Consumer,Edmond,Oklahoma,Central,Technology,Phones,944.93,7,134.99,4
+161,2016-05-11,2016-05-12,First Class,Ted Trevino,Consumer,Los Angeles,California,West,Office Supplies,Paper,5.98,1,5.98,1
+162,2015-12-28,2015-12-31,Second Class,Eric Murdock,Consumer,Philadelphia,Pennsylvania,East,Technology,Accessories,54.384,2,27.192,3
+163,2016-11-16,2016-11-20,Standard Class,Ruben Dartt,Consumer,Carlsbad,New Mexico,West,Office Supplies,Envelopes,28.4,5,5.68,4
+164,2016-11-07,2016-11-11,Standard Class,Max Jones,Consumer,Seattle,Washington,West,Office Supplies,Binders,27.68,2,13.84,4
+165,2014-09-08,2014-09-12,Standard Class,Becky Martin,Consumer,San Antonio,Texas,Central,Office Supplies,Art,9.936,3,3.312,4
+166,2014-09-08,2014-09-12,Standard Class,Becky Martin,Consumer,San Antonio,Texas,Central,Technology,Machines,8159.952,8,1019.994,4
+167,2014-09-08,2014-09-12,Standard Class,Becky Martin,Consumer,San Antonio,Texas,Central,Office Supplies,Storage,275.928,3,91.976,4
+168,2014-09-08,2014-09-12,Standard Class,Becky Martin,Consumer,San Antonio,Texas,Central,Furniture,Chairs,1740.06,9,193.34,4
+169,2014-09-08,2014-09-12,Standard Class,Becky Martin,Consumer,San Antonio,Texas,Central,Office Supplies,Art,32.064,6,5.344,4
+170,2014-09-08,2014-09-12,Standard Class,Becky Martin,Consumer,San Antonio,Texas,Central,Office Supplies,Appliances,177.98,5,35.596,4
+171,2014-09-08,2014-09-12,Standard Class,Becky Martin,Consumer,San Antonio,Texas,Central,Technology,Phones,143.976,3,47.992,4
+172,2014-08-05,2014-08-09,Standard Class,Chad Sievert,Consumer,Los Angeles,California,West,Office Supplies,Paper,20.94,3,6.98,4
+173,2014-08-05,2014-08-09,Standard Class,Chad Sievert,Consumer,Los Angeles,California,West,Office Supplies,Paper,110.96,2,55.48,4
+174,2014-08-05,2014-08-09,Standard Class,Chad Sievert,Consumer,Los Angeles,California,West,Furniture,Chairs,340.144,7,48.592,4
+175,2014-09-14,2014-09-19,Standard Class,Jennifer Braxton,Corporate,Chicago,Illinois,Central,Office Supplies,Appliances,52.448,2,26.224,5
+176,2014-09-14,2014-09-19,Standard Class,Jennifer Braxton,Corporate,Chicago,Illinois,Central,Office Supplies,Labels,20.16,4,5.04,5
+177,2017-04-21,2017-04-25,Second Class,Shirley Jackson,Consumer,Houston,Texas,Central,Office Supplies,Appliances,97.264,4,24.316,4
+178,2015-11-21,2015-11-23,Second Class,Joel Eaton,Consumer,Newark,Ohio,East,Furniture,Chairs,396.802,7,56.686,2
+179,2015-11-21,2015-11-23,Second Class,Joel Eaton,Consumer,Newark,Ohio,East,Office Supplies,Supplies,15.88,5,3.176,2
+180,2015-12-15,2015-12-19,Standard Class,Jim Kriz,Home Office,New York City,New York,East,Office Supplies,Art,3.28,1,3.28,4
+181,2014-12-05,2014-12-09,Second Class,David Kendrick,Corporate,Decatur,Illinois,Central,Office Supplies,Storage,24.816,2,12.408,4
+182,2014-12-05,2014-12-09,Second Class,David Kendrick,Corporate,Decatur,Illinois,Central,Technology,Accessories,408.744,7,58.392,4
+183,2014-11-19,2014-11-24,Second Class,Robert Marley,Home Office,Monroe,Louisiana,South,Technology,Phones,503.96,4,125.99,5
+184,2014-11-19,2014-11-24,Second Class,Robert Marley,Home Office,Monroe,Louisiana,South,Technology,Phones,149.95,5,29.99,5
+185,2014-11-19,2014-11-24,Second Class,Robert Marley,Home Office,Monroe,Louisiana,South,Technology,Accessories,29,2,14.5,5
+186,2016-11-28,2016-12-02,Standard Class,Sally Knutson,Consumer,Fairfield,Connecticut,East,Office Supplies,Binders,7.16,2,3.58,4
+187,2014-08-26,2014-08-30,Standard Class,Frank Merwin,Home Office,Los Angeles,California,West,Technology,Accessories,176.8,8,22.1,4
+188,2016-07-16,2016-07-22,Standard Class,Alice McCarthy,Corporate,Grand Prairie,Texas,Central,Office Supplies,Storage,37.224,3,12.408,6
+189,2016-07-16,2016-07-22,Standard Class,Alice McCarthy,Corporate,Grand Prairie,Texas,Central,Office Supplies,Paper,20.016,3,6.672,6
+190,2015-10-12,2015-10-14,First Class,Mark Packer,Home Office,New York City,New York,East,Furniture,Bookcases,899.136,4,224.784,2
+191,2015-10-12,2015-10-14,First Class,Mark Packer,Home Office,New York City,New York,East,Technology,Phones,71.76,6,11.96,2
+192,2015-10-12,2015-10-14,First Class,Mark Packer,Home Office,New York City,New York,East,Office Supplies,Paper,51.84,8,6.48,2
+193,2015-10-12,2015-10-14,First Class,Mark Packer,Home Office,New York City,New York,East,Furniture,Bookcases,626.352,3,208.784,2
+194,2015-10-12,2015-10-14,First Class,Mark Packer,Home Office,New York City,New York,East,Office Supplies,Art,19.9,5,3.98,2
+195,2015-10-31,2015-11-06,Standard Class,Mary Zewe,Corporate,Redlands,California,West,Office Supplies,Envelopes,14.28,7,2.04,6
+196,2014-03-21,2014-03-25,Standard Class,Cassandra Brandow,Consumer,Hamilton,Ohio,East,Office Supplies,Art,7.408,2,3.704,4
+197,2014-03-21,2014-03-25,Standard Class,Cassandra Brandow,Consumer,Hamilton,Ohio,East,Office Supplies,Art,6.048,3,2.016,4
+198,2017-11-06,2017-11-13,Standard Class,Valerie Mitchum,Home Office,Westfield,New Jersey,East,Office Supplies,Storage,46.26,3,15.42,7
+199,2017-07-06,2017-07-13,Standard Class,Fred Hopkins,Corporate,Philadelphia,Pennsylvania,East,Office Supplies,Binders,2.946,2,1.473,7
+200,2017-07-06,2017-07-13,Standard Class,Fred Hopkins,Corporate,Philadelphia,Pennsylvania,East,Office Supplies,Paper,16.056,3,5.352,7
+201,2017-06-24,2017-06-29,Standard Class,Maria Bertelson,Consumer,Akron,Ohio,East,Office Supplies,Paper,21.744,3,7.248,5
+202,2014-08-03,2014-08-05,First Class,Bruce Stewart,Consumer,Denver,Colorado,West,Furniture,Tables,218.75,2,109.375,2
+203,2014-08-03,2014-08-05,First Class,Bruce Stewart,Consumer,Denver,Colorado,West,Office Supplies,Appliances,2.6,1,2.6,2
+204,2017-12-17,2017-12-21,Second Class,Logan Currie,Consumer,Dallas,Texas,Central,Office Supplies,Appliances,66.284,2,33.142,4
+205,2017-06-03,2017-06-07,Standard Class,Heather Kirkland,Corporate,Franklin,Tennessee,South,Furniture,Furnishings,35.168,7,5.024,4
+206,2017-12-09,2017-12-14,Standard Class,Laurel Elliston,Consumer,Whittier,California,West,Technology,Phones,444.768,4,111.192,5
+207,2017-12-01,2017-12-07,Standard Class,Joseph Holt,Consumer,Saginaw,Michigan,Central,Office Supplies,Storage,83.92,4,20.98,6
+208,2017-12-01,2017-12-07,Standard Class,Joseph Holt,Consumer,Saginaw,Michigan,Central,Technology,Phones,131.98,2,65.99,6
+209,2017-12-01,2017-12-07,Standard Class,Joseph Holt,Consumer,Saginaw,Michigan,Central,Office Supplies,Binders,15.92,4,3.98,6
+210,2017-12-01,2017-12-07,Standard Class,Joseph Holt,Consumer,Saginaw,Michigan,Central,Office Supplies,Fasteners,52.29,9,5.81,6
+211,2017-12-01,2017-12-07,Standard Class,Joseph Holt,Consumer,Saginaw,Michigan,Central,Office Supplies,Storage,91.99,1,91.99,6
+212,2015-02-09,2015-02-13,Second Class,Michael Stewart,Corporate,Dallas,Texas,Central,Technology,Accessories,20.8,2,10.4,4
+218,2016-10-28,2016-11-01,Standard Class,Jonathan Howell,Consumer,Los Angeles,California,West,Office Supplies,Storage,93.06,6,15.51,4
+219,2016-10-28,2016-11-01,Standard Class,Jonathan Howell,Consumer,Los Angeles,California,West,Technology,Phones,302.376,3,100.792,4
+226,2015-08-09,2015-08-16,Standard Class,David Smith,Corporate,Detroit,Michigan,Central,Office Supplies,Art,2.2,1,2.2,7
+227,2015-08-09,2015-08-16,Standard Class,David Smith,Corporate,Detroit,Michigan,Central,Furniture,Tables,622.45,5,124.49,7
+228,2015-08-09,2015-08-16,Standard Class,David Smith,Corporate,Detroit,Michigan,Central,Office Supplies,Storage,21.98,1,21.98,7
+229,2015-02-28,2015-03-04,Standard Class,Valerie Dominguez,Consumer,Columbia,Tennessee,South,Furniture,Chairs,161.568,2,80.784,4
+230,2015-02-28,2015-03-04,Standard Class,Valerie Dominguez,Consumer,Columbia,Tennessee,South,Furniture,Chairs,389.696,8,48.712,4
+231,2014-09-13,2014-09-17,Standard Class,Erin Ashbrook,Corporate,Charlotte,North Carolina,South,Office Supplies,Binders,18.648,7,2.664,4
+232,2017-04-07,2017-04-12,Standard Class,Christopher Schild,Home Office,Tampa,Florida,South,Furniture,Tables,233.86,2,116.93,5
+233,2017-04-07,2017-04-12,Standard Class,Christopher Schild,Home Office,Tampa,Florida,South,Furniture,Tables,620.6145,3,206.8715,5
+234,2017-04-07,2017-04-12,Standard Class,Christopher Schild,Home Office,Tampa,Florida,South,Office Supplies,Binders,5.328,2,2.664,5
+235,2017-04-07,2017-04-12,Standard Class,Christopher Schild,Home Office,Tampa,Florida,South,Furniture,Furnishings,258.072,3,86.024,5
+236,2017-04-07,2017-04-12,Standard Class,Christopher Schild,Home Office,Tampa,Florida,South,Technology,Accessories,617.976,3,205.992,5
+237,2017-11-12,2017-11-16,Standard Class,David Bremer,Corporate,Santa Clara,California,West,Office Supplies,Paper,10.56,2,5.28,4
+238,2016-06-04,2016-06-09,Second Class,Ken Lonsdale,Consumer,Chicago,Illinois,Central,Office Supplies,Paper,25.92,5,5.184,5
+239,2016-06-04,2016-06-09,Second Class,Ken Lonsdale,Consumer,Chicago,Illinois,Central,Furniture,Furnishings,419.68,5,83.936,5
+240,2016-06-04,2016-06-09,Second Class,Ken Lonsdale,Consumer,Chicago,Illinois,Central,Furniture,Furnishings,11.688,3,3.896,5
+241,2016-06-04,2016-06-09,Second Class,Ken Lonsdale,Consumer,Chicago,Illinois,Central,Technology,Phones,31.984,2,15.992,5
+242,2016-06-04,2016-06-09,Second Class,Ken Lonsdale,Consumer,Chicago,Illinois,Central,Furniture,Tables,177.225,5,35.445,5
+243,2016-06-04,2016-06-09,Second Class,Ken Lonsdale,Consumer,Chicago,Illinois,Central,Furniture,Furnishings,4.044,3,1.348,5
+244,2016-06-04,2016-06-09,Second Class,Ken Lonsdale,Consumer,Chicago,Illinois,Central,Office Supplies,Art,7.408,2,3.704,5
+245,2014-06-01,2014-06-06,Second Class,Dianna Wilson,Home Office,Lakeville,Minnesota,Central,Furniture,Chairs,2001.86,7,285.98,5
+246,2014-06-01,2014-06-06,Second Class,Dianna Wilson,Home Office,Lakeville,Minnesota,Central,Office Supplies,Storage,166.72,2,83.36,5
+247,2014-06-01,2014-06-06,Second Class,Dianna Wilson,Home Office,Lakeville,Minnesota,Central,Office Supplies,Paper,47.88,6,7.98,5
+248,2014-06-01,2014-06-06,Second Class,Dianna Wilson,Home Office,Lakeville,Minnesota,Central,Office Supplies,Appliances,1503.25,5,300.65,5
+249,2014-06-01,2014-06-06,Second Class,Dianna Wilson,Home Office,Lakeville,Minnesota,Central,Office Supplies,Paper,25.92,4,6.48,5
+250,2016-12-10,2016-12-15,Second Class,Logan Haushalter,Consumer,San Francisco,California,West,Furniture,Chairs,321.568,2,160.784,5
+251,2016-09-11,2016-09-17,Standard Class,Kelly Collister,Consumer,San Diego,California,West,Office Supplies,Paper,7.61,1,7.61,6
+252,2016-09-11,2016-09-17,Standard Class,Kelly Collister,Consumer,San Diego,California,West,Technology,Accessories,3347.37,13,257.49,6
+253,2016-12-10,2016-12-13,First Class,Delfina Latchford,Consumer,New York City,New York,East,Office Supplies,Storage,80.58,6,13.43,3
+254,2016-12-10,2016-12-13,First Class,Delfina Latchford,Consumer,New York City,New York,East,Office Supplies,Envelopes,361.92,4,90.48,3
+255,2015-11-28,2015-12-04,Standard Class,Dan Reichenbach,Corporate,Chicago,Illinois,Central,Furniture,Furnishings,12.132,9,1.348,6
+256,2015-11-28,2015-12-04,Standard Class,Dan Reichenbach,Corporate,Chicago,Illinois,Central,Office Supplies,Storage,82.368,2,41.184,6
+257,2015-11-28,2015-12-04,Standard Class,Dan Reichenbach,Corporate,Chicago,Illinois,Central,Office Supplies,Storage,53.92,5,10.784,6
+258,2015-11-28,2015-12-04,Standard Class,Dan Reichenbach,Corporate,Chicago,Illinois,Central,Technology,Phones,647.904,6,107.984,6
+259,2017-12-01,2017-12-03,Second Class,Craig Carreira,Consumer,New York City,New York,East,Technology,Accessories,20.37,3,6.79,2
+260,2017-12-01,2017-12-03,Second Class,Craig Carreira,Consumer,New York City,New York,East,Office Supplies,Storage,221.55,3,73.85,2
+261,2017-12-01,2017-12-03,Second Class,Craig Carreira,Consumer,New York City,New York,East,Office Supplies,Binders,17.52,5,3.504,2
+262,2017-06-08,2017-06-12,Standard Class,Dorris liebe,Corporate,Pasadena,Texas,Central,Office Supplies,Appliances,1.624,2,0.812,4
+263,2014-09-19,2014-09-21,Second Class,Sean Braxton,Corporate,Houston,Texas,Central,Technology,Machines,3059.982,3,1019.994,2
+264,2014-09-19,2014-09-21,Second Class,Sean Braxton,Corporate,Houston,Texas,Central,Technology,Machines,2519.958,7,359.994,2
+265,2016-06-06,2016-06-13,Standard Class,Roy Collins,Consumer,Chicago,Illinois,Central,Technology,Phones,328.224,4,82.056,7
+267,2017-06-16,2017-06-20,Standard Class,Claudia Bergmann,Corporate,Chapel Hill,North Carolina,South,Office Supplies,Art,14.016,3,4.672,4
+268,2016-01-22,2016-01-28,Standard Class,Paul Gonzalez,Consumer,Morristown,New Jersey,East,Office Supplies,Fasteners,7.56,6,1.26,6
+269,2017-12-09,2017-12-13,Standard Class,Christine Abelman,Corporate,Cincinnati,Ohio,East,Office Supplies,Storage,37.208,1,37.208,4
+270,2017-12-09,2017-12-13,Standard Class,Christine Abelman,Corporate,Cincinnati,Ohio,East,Office Supplies,Envelopes,57.576,3,19.192,4
+271,2017-12-28,2018-01-02,Second Class,Kristen Hastings,Corporate,San Francisco,California,West,Office Supplies,Storage,725.84,4,181.46,5
+272,2015-07-30,2015-07-31,First Class,Helen Andreada,Consumer,San Francisco,California,West,Technology,Accessories,209.93,7,29.99,1
+273,2015-07-30,2015-07-31,First Class,Helen Andreada,Consumer,San Francisco,California,West,Furniture,Furnishings,5.28,3,1.76,1
+274,2015-07-30,2015-07-31,First Class,Helen Andreada,Consumer,San Francisco,California,West,Office Supplies,Binders,10.92,3,3.64,1
+275,2017-09-16,2017-09-17,First Class,Barry Blumstein,Corporate,Inglewood,California,West,Office Supplies,Paper,8.82,2,4.41,1
+276,2017-09-16,2017-09-17,First Class,Barry Blumstein,Corporate,Inglewood,California,West,Office Supplies,Art,5.98,1,5.98,1
+277,2017-10-13,2017-10-17,Standard Class,Andrew Gjertsen,Corporate,Philadelphia,Pennsylvania,East,Office Supplies,Paper,11.648,2,5.824,4
+278,2017-10-13,2017-10-17,Standard Class,Andrew Gjertsen,Corporate,Philadelphia,Pennsylvania,East,Office Supplies,Paper,18.176,4,4.544,4
+279,2017-10-13,2017-10-17,Standard Class,Andrew Gjertsen,Corporate,Philadelphia,Pennsylvania,East,Office Supplies,Storage,59.712,6,9.952,4
+280,2017-10-13,2017-10-17,Standard Class,Andrew Gjertsen,Corporate,Philadelphia,Pennsylvania,East,Office Supplies,Labels,24.84,3,8.28,4
+281,2015-09-26,2015-09-28,Second Class,Steven Cartwright,Consumer,Houston,Texas,Central,Office Supplies,Binders,2.08,5,0.416,2
+282,2015-09-26,2015-09-28,Second Class,Steven Cartwright,Consumer,Houston,Texas,Central,Technology,Phones,1114.4,7,159.2,2
+283,2015-11-02,2015-11-06,Standard Class,Jas O'Carroll,Consumer,Los Angeles,California,West,Furniture,Tables,1038.84,5,207.768,4
+284,2015-09-26,2015-10-02,Standard Class,Tracy Blumstein,Consumer,Portland,Oregon,West,Office Supplies,Paper,141.76,5,28.352,6
+285,2015-09-26,2015-10-02,Standard Class,Tracy Blumstein,Consumer,Portland,Oregon,West,Technology,Accessories,239.8,5,47.96,6
+286,2015-09-26,2015-10-02,Standard Class,Tracy Blumstein,Consumer,Portland,Oregon,West,Office Supplies,Paper,31.104,6,5.184,6
+287,2016-12-18,2016-12-20,Second Class,Alan Haines,Corporate,Tamarac,Florida,South,Office Supplies,Binders,254.058,7,36.294,2
+288,2016-12-18,2016-12-20,Second Class,Alan Haines,Corporate,Tamarac,Florida,South,Office Supplies,Appliances,194.528,2,97.264,2
+289,2016-12-18,2016-12-20,Second Class,Alan Haines,Corporate,Tamarac,Florida,South,Office Supplies,Supplies,961.48,5,192.296,2
+290,2016-11-20,2016-11-24,Second Class,Nick Zandusky,Home Office,Columbus,Ohio,East,Office Supplies,Fasteners,19.096,7,2.728,4
+291,2016-11-20,2016-11-24,Second Class,Nick Zandusky,Home Office,Columbus,Ohio,East,Office Supplies,Labels,18.496,8,2.312,4
+292,2016-11-20,2016-11-24,Second Class,Nick Zandusky,Home Office,Columbus,Ohio,East,Technology,Accessories,255.984,2,127.992,4
+293,2016-11-20,2016-11-24,Second Class,Nick Zandusky,Home Office,Columbus,Ohio,East,Furniture,Bookcases,86.97,3,28.99,4
+294,2014-12-26,2014-12-28,First Class,Kelly Lampkin,Corporate,Colorado Springs,Colorado,West,Furniture,Furnishings,300.416,8,37.552,2
+295,2014-12-26,2014-12-28,First Class,Kelly Lampkin,Corporate,Colorado Springs,Colorado,West,Furniture,Chairs,230.352,3,76.784,2
+296,2014-12-26,2014-12-28,First Class,Kelly Lampkin,Corporate,Colorado Springs,Colorado,West,Furniture,Furnishings,218.352,3,72.784,2
+297,2014-12-26,2014-12-28,First Class,Kelly Lampkin,Corporate,Colorado Springs,Colorado,West,Office Supplies,Binders,78.6,5,15.72,2
+298,2014-12-26,2014-12-28,First Class,Kelly Lampkin,Corporate,Colorado Springs,Colorado,West,Office Supplies,Fasteners,27.552,3,9.184,2
+299,2016-10-28,2016-11-03,Standard Class,Jonathan Doherty,Corporate,Belleville,New Jersey,East,Office Supplies,Paper,32.4,5,6.48,6
+300,2016-10-28,2016-11-03,Standard Class,Jonathan Doherty,Corporate,Belleville,New Jersey,East,Office Supplies,Storage,1082.48,8,135.31,6
+301,2016-10-28,2016-11-03,Standard Class,Jonathan Doherty,Corporate,Belleville,New Jersey,East,Office Supplies,Paper,56.91,3,18.97,6
+302,2016-10-28,2016-11-03,Standard Class,Jonathan Doherty,Corporate,Belleville,New Jersey,East,Furniture,Furnishings,77.6,4,19.4,6
+303,2016-10-28,2016-11-03,Standard Class,Jonathan Doherty,Corporate,Belleville,New Jersey,East,Office Supplies,Binders,14.28,1,14.28,6
+304,2017-11-19,2017-11-23,Standard Class,Jonathan Howell,Consumer,Chicago,Illinois,Central,Furniture,Tables,219.075,3,73.025,4
+305,2015-05-04,2015-05-09,Second Class,Alan Schoenberger,Corporate,New York City,New York,East,Furniture,Furnishings,26.8,2,13.4,5
+306,2014-12-30,2015-01-04,Standard Class,Ken Brennan,Corporate,Taylor,Michigan,Central,Office Supplies,Art,9.84,3,3.28,5
+307,2014-06-01,2014-06-06,Standard Class,Corey Roper,Home Office,Lakewood,New Jersey,East,Office Supplies,Binders,45.48,3,15.16,5
+308,2014-06-01,2014-06-06,Standard Class,Corey Roper,Home Office,Lakewood,New Jersey,East,Office Supplies,Art,289.2,6,48.2,5
+309,2017-04-15,2017-04-17,First Class,Shahid Hopkins,Consumer,Arlington,Virginia,South,Office Supplies,Art,4.89,1,4.89,2
+310,2016-09-12,2016-09-14,Second Class,Ben Peterman,Corporate,Arvada,Colorado,West,Furniture,Furnishings,15.136,4,3.784,2
+311,2016-09-12,2016-09-14,Second Class,Ben Peterman,Corporate,Arvada,Colorado,West,Furniture,Chairs,466.768,2,233.384,2
+312,2016-09-12,2016-09-14,Second Class,Ben Peterman,Corporate,Arvada,Colorado,West,Furniture,Furnishings,15.232,1,15.232,2
+313,2016-09-12,2016-09-14,Second Class,Ben Peterman,Corporate,Arvada,Colorado,West,Office Supplies,Labels,6.264,3,2.088,2
+314,2014-09-27,2014-10-03,Standard Class,Thomas Seio,Corporate,Hackensack,New Jersey,East,Furniture,Furnishings,87.54,3,29.18,6
+317,2014-12-28,2014-12-30,First Class,Sung Pak,Corporate,Philadelphia,Pennsylvania,East,Office Supplies,Art,99.136,4,24.784,2
+318,2014-11-04,2014-11-09,Standard Class,Nathan Mautz,Home Office,New York City,New York,East,Furniture,Chairs,135.882,1,135.882,5
+319,2014-11-04,2014-11-09,Standard Class,Nathan Mautz,Home Office,New York City,New York,East,Technology,Machines,3991.98,2,1995.99,5
+320,2014-11-04,2014-11-09,Standard Class,Nathan Mautz,Home Office,New York City,New York,East,Technology,Phones,275.94,6,45.99,5
+321,2014-11-04,2014-11-09,Standard Class,Nathan Mautz,Home Office,New York City,New York,East,Technology,Accessories,360,4,90,5
+322,2014-11-04,2014-11-09,Standard Class,Nathan Mautz,Home Office,New York City,New York,East,Office Supplies,Storage,43.57,1,43.57,5
+323,2014-09-19,2014-09-24,Standard Class,Frank Atkinson,Corporate,Long Beach,California,West,Office Supplies,Fasteners,7.16,2,3.58,5
+324,2016-04-23,2016-04-27,Standard Class,Grace Kelly,Corporate,Hesperia,California,West,Office Supplies,Binders,251.52,6,41.92,4
+325,2016-04-23,2016-04-27,Standard Class,Grace Kelly,Corporate,Hesperia,California,West,Technology,Accessories,99.99,1,99.99,4
+326,2017-11-03,2017-11-05,Second Class,Don Jones,Corporate,Murfreesboro,Tennessee,South,Furniture,Furnishings,15.992,1,15.992,2
+327,2016-08-30,2016-09-01,First Class,Patrick O'Brill,Consumer,Philadelphia,Pennsylvania,East,Technology,Phones,290.898,3,96.966,2
+328,2016-08-30,2016-09-01,First Class,Patrick O'Brill,Consumer,Philadelphia,Pennsylvania,East,Office Supplies,Storage,54.224,2,27.112,2
+329,2016-08-30,2016-09-01,First Class,Patrick O'Brill,Consumer,Philadelphia,Pennsylvania,East,Furniture,Chairs,786.744,4,196.686,2
+330,2016-08-30,2016-09-01,First Class,Patrick O'Brill,Consumer,Philadelphia,Pennsylvania,East,Office Supplies,Labels,100.24,10,10.024,2
+331,2016-08-30,2016-09-01,First Class,Patrick O'Brill,Consumer,Philadelphia,Pennsylvania,East,Office Supplies,Binders,37.764,6,6.294,2
+332,2016-04-25,2016-04-29,Second Class,John Lucas,Consumer,Philadelphia,Pennsylvania,East,Technology,Phones,82.8,2,41.4,4
+333,2016-04-25,2016-04-29,Second Class,John Lucas,Consumer,Philadelphia,Pennsylvania,East,Office Supplies,Binders,20.724,2,10.362,4
+334,2016-04-25,2016-04-29,Second Class,John Lucas,Consumer,Philadelphia,Pennsylvania,East,Office Supplies,Binders,4.896,3,1.632,4
+335,2015-09-01,2015-09-04,Second Class,Doug Bickford,Consumer,Los Angeles,California,West,Office Supplies,Binders,4.752,1,4.752,3
+336,2015-09-01,2015-09-04,Second Class,Doug Bickford,Consumer,Los Angeles,California,West,Technology,Copiers,959.984,2,479.992,3
+337,2015-09-01,2015-09-04,Second Class,Doug Bickford,Consumer,Los Angeles,California,West,Office Supplies,Binders,14.368,4,3.592,3
+338,2014-07-12,2014-07-17,Standard Class,Alyssa Crouse,Corporate,San Francisco,California,West,Office Supplies,Binders,7.712,2,3.856,5
+339,2014-07-12,2014-07-17,Standard Class,Alyssa Crouse,Corporate,San Francisco,California,West,Furniture,Tables,698.352,3,232.784,5
+340,2015-06-22,2015-06-26,Second Class,Ken Lonsdale,Consumer,Layton,Utah,West,Office Supplies,Fasteners,4.96,4,1.24,4
+341,2014-04-13,2014-04-17,Second Class,Jonathan Doherty,Corporate,Philadelphia,Pennsylvania,East,Office Supplies,Art,17.856,4,4.464,4
+342,2014-04-13,2014-04-17,Second Class,Jonathan Doherty,Corporate,Philadelphia,Pennsylvania,East,Office Supplies,Binders,509.97,10,50.997,4
+343,2014-04-13,2014-04-17,Second Class,Jonathan Doherty,Corporate,Philadelphia,Pennsylvania,East,Office Supplies,Fasteners,30.992,13,2.384,4
+344,2014-04-13,2014-04-17,Second Class,Jonathan Doherty,Corporate,Philadelphia,Pennsylvania,East,Technology,Phones,71.928,12,5.994,4
+345,2015-12-20,2015-12-24,Standard Class,Chad Sievert,Consumer,Austin,Texas,Central,Office Supplies,Storage,88.8,4,22.2,4
+346,2017-06-15,2017-06-19,Standard Class,Clay Cheatham,Consumer,San Francisco,California,West,Technology,Phones,47.976,3,15.992,4
+347,2017-07-08,2017-07-12,Standard Class,Tamara Dahlen,Consumer,Lowell,Massachusetts,East,Office Supplies,Art,7.56,3,2.52,4
+348,2017-07-08,2017-07-12,Standard Class,Tamara Dahlen,Consumer,Lowell,Massachusetts,East,Office Supplies,Paper,24.56,2,12.28,4
+349,2017-07-08,2017-07-12,Standard Class,Tamara Dahlen,Consumer,Lowell,Massachusetts,East,Office Supplies,Art,12.96,2,6.48,4
+350,2016-09-01,2016-09-03,First Class,Adam Bellavance,Home Office,New York City,New York,East,Technology,Accessories,6.79,1,6.79,2
+351,2016-09-01,2016-09-03,First Class,Adam Bellavance,Home Office,New York City,New York,East,Office Supplies,Paper,24.56,2,12.28,2
+352,2016-09-01,2016-09-03,First Class,Adam Bellavance,Home Office,New York City,New York,East,Office Supplies,Binders,3.048,1,3.048,2
+353,2016-09-01,2016-09-03,First Class,Adam Bellavance,Home Office,New York City,New York,East,Office Supplies,Paper,49.12,4,12.28,2
+354,2016-09-01,2016-09-03,First Class,Adam Bellavance,Home Office,New York City,New York,East,Office Supplies,Binders,4355.168,4,1088.792,2
+355,2016-04-08,2016-04-13,Standard Class,Jeremy Lonsdale,Consumer,New York City,New York,East,Furniture,Bookcases,388.704,6,64.784,5
+356,2016-04-08,2016-04-13,Standard Class,Jeremy Lonsdale,Consumer,New York City,New York,East,Office Supplies,Envelopes,8.26,2,4.13,5
+357,2016-04-08,2016-04-13,Standard Class,Jeremy Lonsdale,Consumer,New York City,New York,East,Office Supplies,Art,17.04,4,4.26,5
+358,2016-04-08,2016-04-13,Standard Class,Jeremy Lonsdale,Consumer,New York City,New York,East,Office Supplies,Paper,34.4,5,6.88,5
+359,2016-04-23,2016-04-28,Standard Class,Heather Kirkland,Corporate,Charlotte,North Carolina,South,Office Supplies,Paper,36.24,5,7.248,5
+360,2017-03-08,2017-03-11,First Class,Victoria Brennan,Corporate,Columbus,Georgia,South,Office Supplies,Appliances,647.84,8,80.98,3
+361,2017-03-08,2017-03-11,First Class,Victoria Brennan,Corporate,Columbus,Georgia,South,Office Supplies,Labels,20.7,2,10.35,3
+362,2017-09-25,2017-10-01,Standard Class,Katrina Willman,Consumer,New York City,New York,East,Office Supplies,Labels,20.7,2,10.35,6
+363,2017-09-25,2017-10-01,Standard Class,Katrina Willman,Consumer,New York City,New York,East,Furniture,Chairs,488.646,3,162.882,6
+364,2017-09-25,2017-10-01,Standard Class,Katrina Willman,Consumer,New York City,New York,East,Office Supplies,Art,5.56,2,2.78,6
+365,2017-09-25,2017-10-01,Standard Class,Katrina Willman,Consumer,New York City,New York,East,Furniture,Furnishings,47.12,8,5.89,6
+366,2014-09-24,2014-09-29,Standard Class,Julia Dunbar,Consumer,San Francisco,California,West,Office Supplies,Storage,211.96,4,52.99,5
+371,2017-05-29,2017-06-04,Standard Class,Guy Thornton,Consumer,Harlingen,Texas,Central,Office Supplies,Paper,25.92,5,5.184,6
+372,2017-05-29,2017-06-04,Standard Class,Guy Thornton,Consumer,Harlingen,Texas,Central,Office Supplies,Storage,53.424,3,17.808,6
+373,2014-07-23,2014-07-27,Standard Class,Arthur Gainer,Consumer,Tucson,Arizona,West,Office Supplies,Binders,8.16,5,1.632,4
+374,2014-07-23,2014-07-27,Standard Class,Arthur Gainer,Consumer,Tucson,Arizona,West,Technology,Accessories,1023.936,8,127.992,4
+375,2014-07-23,2014-07-27,Standard Class,Arthur Gainer,Consumer,Tucson,Arizona,West,Office Supplies,Art,9.24,1,9.24,4
+376,2014-07-23,2014-07-27,Standard Class,Arthur Gainer,Consumer,Tucson,Arizona,West,Technology,Accessories,479.04,10,47.904,4
+377,2016-09-28,2016-10-01,First Class,Muhammed MacIntyre,Corporate,Quincy,Illinois,Central,Office Supplies,Paper,99.136,4,24.784,3
+378,2017-08-27,2017-09-01,Standard Class,Allen Rosenblatt,Corporate,Franklin,Massachusetts,East,Furniture,Tables,1488.424,7,212.632,5
+379,2015-04-28,2015-05-05,Standard Class,Russell Applegate,Consumer,Houston,Texas,Central,Office Supplies,Appliances,8.652,3,2.884,7
+380,2015-04-28,2015-05-05,Standard Class,Russell Applegate,Consumer,Houston,Texas,Central,Office Supplies,Storage,23.832,3,7.944,7
+381,2015-04-28,2015-05-05,Standard Class,Russell Applegate,Consumer,Houston,Texas,Central,Office Supplies,Binders,12.176,4,3.044,7
+382,2016-10-28,2016-10-29,First Class,Alejandro Savely,Corporate,San Francisco,California,West,Office Supplies,Paper,50.96,7,7.28,1
+383,2016-10-28,2016-10-29,First Class,Alejandro Savely,Corporate,San Francisco,California,West,Office Supplies,Binders,49.536,3,16.512,1
+384,2015-06-26,2015-06-29,Second Class,Laura Armstrong,Corporate,Taylor,Michigan,Central,Technology,Accessories,41.9,2,20.95,3
+385,2015-11-27,2015-12-02,Standard Class,Denny Ordway,Consumer,Pembroke Pines,Florida,South,Furniture,Tables,375.4575,3,125.1525,5
+386,2015-11-27,2015-12-02,Standard Class,Denny Ordway,Consumer,Pembroke Pines,Florida,South,Technology,Accessories,83.976,3,27.992,5
+387,2015-12-03,2015-12-07,Standard Class,Dean Katz,Corporate,Philadelphia,Pennsylvania,East,Technology,Machines,482.34,4,120.585,4
+388,2015-12-03,2015-12-07,Standard Class,Dean Katz,Corporate,Philadelphia,Pennsylvania,East,Furniture,Furnishings,2.96,1,2.96,4
+389,2014-11-24,2014-11-26,First Class,Nathan Gelder,Consumer,Cincinnati,Ohio,East,Office Supplies,Art,2.624,1,2.624,2
+390,2017-12-11,2017-12-15,Standard Class,Mike Vittorini,Consumer,New York City,New York,East,Office Supplies,Binders,23.36,4,5.84,4
+391,2017-12-11,2017-12-15,Standard Class,Mike Vittorini,Consumer,New York City,New York,East,Technology,Accessories,39.98,2,19.99,4
+392,2014-09-21,2014-09-23,Second Class,Jack Garza,Consumer,Des Moines,Washington,West,Technology,Phones,246.384,2,123.192,2
+393,2014-09-21,2014-09-23,Second Class,Jack Garza,Consumer,Des Moines,Washington,West,Technology,Copiers,1799.97,3,599.99,2
+394,2014-06-07,2014-06-10,Second Class,Bart Pistole,Corporate,Peoria,Illinois,Central,Office Supplies,Binders,12.462,3,4.154,3
+395,2017-06-30,2017-07-05,Standard Class,Victor Preis,Home Office,Las Vegas,Nevada,West,Office Supplies,Binders,75.792,3,25.264,5
+398,2015-10-31,2015-11-04,Standard Class,Harold Pawlan,Home Office,Jackson,Michigan,Central,Office Supplies,Supplies,70.12,4,17.53,4
+399,2016-09-08,2016-09-10,Second Class,Anna Gayman,Consumer,Houston,Texas,Central,Office Supplies,Storage,35.952,3,11.984,2
+400,2016-09-08,2016-09-10,Second Class,Anna Gayman,Consumer,Houston,Texas,Central,Furniture,Bookcases,2396.2656,4,599.0664,2
+401,2016-09-08,2016-09-10,Second Class,Anna Gayman,Consumer,Houston,Texas,Central,Office Supplies,Storage,131.136,4,32.784,2
+402,2016-09-08,2016-09-10,Second Class,Anna Gayman,Consumer,Houston,Texas,Central,Technology,Accessories,57.584,2,28.792,2
+403,2014-12-24,2014-12-26,First Class,Luke Foster,Consumer,Miami,Florida,South,Office Supplies,Paper,9.568,2,4.784,2
+404,2014-04-16,2014-04-20,Standard Class,Stephanie Phelps,Corporate,Wilmington,North Carolina,South,Office Supplies,Art,39.072,6,6.512,4
+405,2017-12-24,2017-12-29,Standard Class,Roy Französisch,Consumer,New York City,New York,East,Office Supplies,Appliances,35.91,3,11.97,5
+406,2017-12-08,2017-12-12,Standard Class,Keith Herrera,Consumer,San Francisco,California,West,Technology,Accessories,179.95,5,35.99,4
+407,2017-12-08,2017-12-12,Standard Class,Keith Herrera,Consumer,San Francisco,California,West,Technology,Copiers,1199.976,3,399.992,4
+408,2017-12-08,2017-12-12,Standard Class,Keith Herrera,Consumer,San Francisco,California,West,Office Supplies,Paper,27.15,5,5.43,4
+409,2017-12-08,2017-12-12,Standard Class,Keith Herrera,Consumer,San Francisco,California,West,Furniture,Tables,1004.024,7,143.432,4
+410,2017-12-08,2017-12-12,Standard Class,Keith Herrera,Consumer,San Francisco,California,West,Office Supplies,Paper,9.68,1,9.68,4
+411,2017-12-08,2017-12-12,Standard Class,Keith Herrera,Consumer,San Francisco,California,West,Office Supplies,Labels,28.35,9,3.15,4
+412,2017-12-08,2017-12-12,Standard Class,Keith Herrera,Consumer,San Francisco,California,West,Office Supplies,Paper,55.98,1,55.98,4
+413,2017-12-08,2017-12-12,Standard Class,Keith Herrera,Consumer,San Francisco,California,West,Furniture,Bookcases,1336.829,13,102.833,4
+414,2017-12-08,2017-12-12,Standard Class,Keith Herrera,Consumer,San Francisco,California,West,Furniture,Chairs,113.568,2,56.784,4
+415,2017-11-03,2017-11-07,Standard Class,Kimberly Carter,Corporate,Seattle,Washington,West,Office Supplies,Paper,139.86,7,19.98,4
+416,2017-11-03,2017-11-07,Standard Class,Kimberly Carter,Corporate,Seattle,Washington,West,Furniture,Chairs,307.136,4,76.784,4
+417,2017-06-24,2017-06-28,Standard Class,Caroline Jumper,Consumer,Huntington Beach,California,West,Office Supplies,Art,95.92,8,11.99,4
+418,2016-04-14,2016-04-18,Standard Class,Philip Brown,Consumer,Los Angeles,California,West,Furniture,Chairs,383.8,5,76.76,4
+419,2017-11-06,2017-11-10,Standard Class,Victoria Brennan,Corporate,Richmond,Kentucky,South,Office Supplies,Paper,5.78,1,5.78,4
+420,2017-03-04,2017-03-09,Standard Class,Sung Pak,Corporate,Los Angeles,California,West,Office Supplies,Art,9.32,4,2.33,5
+421,2017-03-04,2017-03-09,Standard Class,Sung Pak,Corporate,Los Angeles,California,West,Office Supplies,Envelopes,15.25,1,15.25,5
+422,2014-06-22,2014-06-25,First Class,Joel Eaton,Consumer,Louisville,Colorado,West,Technology,Accessories,196.752,6,32.792,3
+423,2017-10-19,2017-10-23,Standard Class,Michael Paige,Corporate,Lawrence,Massachusetts,East,Furniture,Furnishings,56.56,4,14.14,4
+424,2017-10-19,2017-10-23,Standard Class,Michael Paige,Corporate,Lawrence,Massachusetts,East,Office Supplies,Storage,32.7,3,10.9,4
+425,2017-08-21,2017-08-23,Second Class,Natalie Fritzler,Consumer,Jackson,Mississippi,South,Furniture,Chairs,866.4,4,216.6,2
+426,2017-11-23,2017-11-26,Second Class,Janet Molinari,Corporate,Canton,Michigan,Central,Furniture,Furnishings,28.4,2,14.2,3
+427,2017-11-23,2017-11-26,Second Class,Janet Molinari,Corporate,Canton,Michigan,Central,Office Supplies,Binders,287.92,8,35.99,3
+428,2014-09-12,2014-09-13,First Class,Shirley Daniels,Home Office,New Rochelle,New York,East,Technology,Machines,69.99,1,69.99,1
+429,2017-10-01,2017-10-08,Standard Class,Ken Heidel,Corporate,San Antonio,Texas,Central,Office Supplies,Art,6.672,6,1.112,7
+430,2016-04-15,2016-04-21,Standard Class,Ross Baird,Home Office,Gastonia,North Carolina,South,Office Supplies,Binders,189.588,2,94.794,6
+431,2016-04-15,2016-04-21,Standard Class,Ross Baird,Home Office,Gastonia,North Carolina,South,Technology,Accessories,408.744,7,58.392,6
+432,2016-04-15,2016-04-21,Standard Class,Ross Baird,Home Office,Gastonia,North Carolina,South,Technology,Accessories,291.96,5,58.392,6
+433,2016-04-15,2016-04-21,Standard Class,Ross Baird,Home Office,Gastonia,North Carolina,South,Office Supplies,Storage,4.768,2,2.384,6
+434,2016-06-06,2016-06-07,First Class,Dave Brooks,Consumer,Lowell,Massachusetts,East,Office Supplies,Storage,714.3,5,142.86,1
+435,2014-12-19,2014-12-25,Standard Class,Mike Kennedy,Consumer,Jacksonville,Florida,South,Office Supplies,Binders,4.812,2,2.406,6
+436,2014-12-19,2014-12-25,Standard Class,Mike Kennedy,Consumer,Jacksonville,Florida,South,Technology,Accessories,247.8,5,49.56,6
+437,2016-06-12,2016-06-14,Second Class,Philisse Overcash,Home Office,Chicago,Illinois,Central,Technology,Machines,1007.979,3,335.993,2
+438,2016-06-12,2016-06-14,Second Class,Philisse Overcash,Home Office,Chicago,Illinois,Central,Office Supplies,Paper,313.488,7,44.784,2
+439,2017-09-15,2017-09-19,Standard Class,Brenda Bowman,Corporate,Houston,Texas,Central,Office Supplies,Paper,31.872,8,3.984,4
+440,2017-01-20,2017-01-23,Second Class,Cynthia Voltz,Corporate,New York City,New York,East,Furniture,Chairs,207.846,3,69.282,3
+441,2016-09-05,2016-09-07,Second Class,Pete Kriz,Consumer,Detroit,Michigan,Central,Furniture,Furnishings,12.22,1,12.22,2
+442,2016-09-05,2016-09-07,Second Class,Pete Kriz,Consumer,Detroit,Michigan,Central,Office Supplies,Storage,194.94,3,64.98,2
+443,2016-09-05,2016-09-07,Second Class,Pete Kriz,Consumer,Detroit,Michigan,Central,Office Supplies,Storage,70.95,3,23.65,2
+444,2016-09-05,2016-09-07,Second Class,Pete Kriz,Consumer,Detroit,Michigan,Central,Office Supplies,Paper,91.36,4,22.84,2
+445,2016-09-05,2016-09-07,Second Class,Pete Kriz,Consumer,Detroit,Michigan,Central,Furniture,Chairs,242.94,3,80.98,2
+446,2016-09-05,2016-09-07,Second Class,Pete Kriz,Consumer,Detroit,Michigan,Central,Office Supplies,Labels,22.05,7,3.15,2
+447,2017-03-20,2017-03-25,Second Class,Troy Blackwell,Consumer,Columbus,Indiana,Central,Furniture,Furnishings,2.91,1,2.91,5
+448,2016-04-01,2016-04-03,Second Class,Raymond Buch,Consumer,Auburn,New York,East,Office Supplies,Art,59.52,3,19.84,2
+449,2016-04-01,2016-04-03,Second Class,Raymond Buch,Consumer,Auburn,New York,East,Office Supplies,Storage,161.94,3,53.98,2
+450,2016-04-01,2016-04-03,Second Class,Raymond Buch,Consumer,Auburn,New York,East,Office Supplies,Art,263.88,6,43.98,2
+451,2016-04-01,2016-04-03,Second Class,Raymond Buch,Consumer,Auburn,New York,East,Office Supplies,Art,30.48,3,10.16,2
+452,2016-04-01,2016-04-03,Second Class,Raymond Buch,Consumer,Auburn,New York,East,Office Supplies,Art,9.84,3,3.28,2
+453,2016-04-01,2016-04-03,Second Class,Raymond Buch,Consumer,Auburn,New York,East,Technology,Phones,35.12,4,8.78,2
+454,2017-10-20,2017-10-24,Standard Class,Ed Braxton,Corporate,Akron,Ohio,East,Furniture,Tables,284.364,2,142.182,4
+455,2017-10-20,2017-10-24,Standard Class,Ed Braxton,Corporate,Akron,Ohio,East,Office Supplies,Storage,665.408,2,332.704,4
+456,2016-12-13,2016-12-17,Standard Class,Ken Heidel,Corporate,Norman,Oklahoma,Central,Technology,Accessories,63.88,4,15.97,4
+457,2014-02-12,2014-02-18,Standard Class,Sanjit Chand,Consumer,Concord,California,West,Furniture,Chairs,129.568,2,64.784,6
+458,2016-09-26,2016-10-01,Standard Class,Natalie Fritzler,Consumer,Decatur,Illinois,Central,Furniture,Chairs,747.558,3,249.186,5
+459,2016-09-26,2016-10-01,Standard Class,Natalie Fritzler,Consumer,Decatur,Illinois,Central,Office Supplies,Envelopes,8.928,2,4.464,5
+460,2015-12-15,2015-12-22,Standard Class,Joseph Holt,Consumer,Seattle,Washington,West,Office Supplies,Appliances,103.92,4,25.98,7
+461,2015-12-15,2015-12-22,Standard Class,Joseph Holt,Consumer,Seattle,Washington,West,Technology,Accessories,899.91,9,99.99,7
+462,2015-12-15,2015-12-22,Standard Class,Joseph Holt,Consumer,Seattle,Washington,West,Office Supplies,Binders,51.312,3,17.104,7
+463,2016-04-22,2016-04-29,Standard Class,Tanja Norvell,Home Office,Phoenix,Arizona,West,Furniture,Furnishings,23.56,5,4.712,7
+464,2016-04-22,2016-04-29,Standard Class,Tanja Norvell,Home Office,Phoenix,Arizona,West,Furniture,Tables,1272.63,6,212.105,7
+465,2016-04-22,2016-04-29,Standard Class,Tanja Norvell,Home Office,Phoenix,Arizona,West,Office Supplies,Binders,28.485,5,5.697,7
+466,2016-04-22,2016-04-29,Standard Class,Tanja Norvell,Home Office,Phoenix,Arizona,West,Office Supplies,Supplies,185.376,2,92.688,7
+467,2016-04-22,2016-04-29,Standard Class,Tanja Norvell,Home Office,Phoenix,Arizona,West,Office Supplies,Appliances,78.272,2,39.136,7
+468,2015-01-17,2015-01-24,Standard Class,Joni Sundaresam,Home Office,Park Ridge,Illinois,Central,Furniture,Furnishings,254.744,7,36.392,7
+469,2017-03-31,2017-04-04,Standard Class,David Smith,Corporate,Amarillo,Texas,Central,Furniture,Bookcases,205.3328,2,102.6664,4
+470,2016-12-16,2016-12-20,Second Class,Craig Carreira,Consumer,Chicago,Illinois,Central,Office Supplies,Binders,4.788,3,1.596,4
+471,2015-12-20,2015-12-24,Standard Class,Maya Herman,Corporate,Lindenhurst,New York,East,Office Supplies,Paper,55.48,1,55.48,4
+472,2014-11-09,2014-11-11,Second Class,Jeremy Pistek,Consumer,San Francisco,California,West,Office Supplies,Storage,340.92,3,113.64,2
+473,2014-11-09,2014-11-11,Second Class,Jeremy Pistek,Consumer,San Francisco,California,West,Furniture,Bookcases,222.666,2,111.333,2
+474,2014-11-09,2014-11-11,Second Class,Jeremy Pistek,Consumer,San Francisco,California,West,Technology,Phones,703.968,4,175.992,2
+475,2014-11-09,2014-11-11,Second Class,Jeremy Pistek,Consumer,San Francisco,California,West,Office Supplies,Storage,92.52,6,15.42,2
+476,2014-11-09,2014-11-11,Second Class,Jeremy Pistek,Consumer,San Francisco,California,West,Office Supplies,Paper,62.65,7,8.95,2
+477,2014-11-09,2014-11-11,Second Class,Jeremy Pistek,Consumer,San Francisco,California,West,Office Supplies,Paper,94.85,5,18.97,2
+478,2016-07-12,2016-07-19,Standard Class,Kristen Hastings,Corporate,Los Angeles,California,West,Technology,Phones,95.76,6,15.96,7
+479,2016-10-27,2016-11-02,Standard Class,Jeremy Ellison,Consumer,Troy,New York,East,Furniture,Furnishings,40.2,3,13.4,6
+480,2016-06-26,2016-07-02,Standard Class,John Grady,Corporate,New York City,New York,East,Office Supplies,Art,14.7,5,2.94,6
+481,2016-06-26,2016-07-02,Standard Class,John Grady,Corporate,New York City,New York,East,Office Supplies,Storage,704.25,5,140.85,6
+482,2014-10-06,2014-10-10,Standard Class,Xylona Preis,Consumer,San Diego,California,West,Technology,Accessories,9.09,3,3.03,4
+483,2014-07-22,2014-07-27,Standard Class,Erin Mull,Consumer,New York City,New York,East,Office Supplies,Art,5.96,2,2.98,5
+484,2014-07-22,2014-07-27,Standard Class,Erin Mull,Consumer,New York City,New York,East,Technology,Accessories,159.98,2,79.99,5
+485,2017-06-10,2017-06-13,First Class,Michelle Tran,Home Office,Los Angeles,California,West,Office Supplies,Labels,29.6,2,14.8,3
+486,2017-06-10,2017-06-13,First Class,Michelle Tran,Home Office,Los Angeles,California,West,Furniture,Bookcases,514.165,5,102.833,3
+487,2017-06-10,2017-06-13,First Class,Michelle Tran,Home Office,Los Angeles,California,West,Technology,Phones,279.96,5,55.992,3
+488,2014-10-29,2014-10-31,First Class,Sue Ann Reed,Consumer,Chicago,Illinois,Central,Technology,Phones,2735.952,6,455.992,2
+489,2014-06-09,2014-06-13,Second Class,Carl Weiss,Home Office,Huntsville,Texas,Central,Technology,Phones,7.992,1,7.992,4
+490,2014-06-09,2014-06-13,Second Class,Carl Weiss,Home Office,Huntsville,Texas,Central,Technology,Accessories,63.984,2,31.992,4
+491,2014-06-09,2014-06-13,Second Class,Carl Weiss,Home Office,Huntsville,Texas,Central,Office Supplies,Art,70.368,2,35.184,4
+492,2014-09-14,2014-09-19,Standard Class,Astrea Jones,Consumer,Rochester,New York,East,Office Supplies,Storage,449.15,5,89.83,5
+493,2014-09-14,2014-09-19,Standard Class,Astrea Jones,Consumer,Rochester,New York,East,Office Supplies,Envelopes,11.07,3,3.69,5
+494,2016-05-09,2016-05-14,Standard Class,Sonia Sunley,Consumer,Seattle,Washington,West,Technology,Accessories,93.98,2,46.99,5
+495,2016-03-18,2016-03-21,Second Class,Rose O'Brian,Consumer,Memphis,Tennessee,South,Furniture,Tables,189.882,3,63.294,3
+496,2015-12-27,2015-12-31,Standard Class,Maribeth Dona,Consumer,Fayetteville,Arkansas,South,Office Supplies,Envelopes,105.42,2,52.71,4
+497,2016-07-25,2016-07-31,Standard Class,Sanjit Chand,Consumer,Costa Mesa,California,West,Office Supplies,Binders,119.616,8,14.952,6
+498,2016-07-25,2016-07-31,Standard Class,Sanjit Chand,Consumer,Costa Mesa,California,West,Furniture,Furnishings,255.76,4,63.94,6
+499,2016-07-25,2016-07-31,Standard Class,Sanjit Chand,Consumer,Costa Mesa,California,West,Furniture,Chairs,241.568,2,120.784,6
+500,2016-07-25,2016-07-31,Standard Class,Sanjit Chand,Consumer,Costa Mesa,California,West,Furniture,Furnishings,69.3,9,7.7,6
+501,2016-05-30,2016-06-04,Standard Class,Maribeth Yedwab,Corporate,Parker,Colorado,West,Office Supplies,Binders,22.62,2,11.31,5
+502,2016-05-30,2016-06-04,Standard Class,Maribeth Yedwab,Corporate,Parker,Colorado,West,Office Supplies,Binders,14.952,2,7.476,5
+503,2016-05-30,2016-06-04,Standard Class,Maribeth Yedwab,Corporate,Parker,Colorado,West,Furniture,Chairs,801.568,2,400.784,5
+504,2016-05-30,2016-06-04,Standard Class,Maribeth Yedwab,Corporate,Parker,Colorado,West,Office Supplies,Binders,2.376,3,0.792,5
+505,2016-05-30,2016-06-04,Standard Class,Maribeth Yedwab,Corporate,Parker,Colorado,West,Office Supplies,Paper,32.792,1,32.792,5
+506,2017-11-12,2017-11-15,Second Class,Ed Braxton,Corporate,New York City,New York,East,Office Supplies,Binders,15.92,5,3.184,3
+507,2015-03-16,2015-03-22,Standard Class,Christopher Martinez,Consumer,Atlanta,Georgia,South,Office Supplies,Art,2.74,1,2.74,6
+508,2015-03-16,2015-03-22,Standard Class,Christopher Martinez,Consumer,Atlanta,Georgia,South,Office Supplies,Art,8.34,3,2.78,6
+509,2015-03-16,2015-03-22,Standard Class,Christopher Martinez,Consumer,Atlanta,Georgia,South,Office Supplies,Storage,46.74,3,15.58,6
+510,2015-03-16,2015-03-22,Standard Class,Christopher Martinez,Consumer,Atlanta,Georgia,South,Office Supplies,Binders,6354.95,5,1270.99,6
+513,2016-10-20,2016-10-23,First Class,Luke Foster,Consumer,Newark,Ohio,East,Office Supplies,Art,7.152,3,2.384,3
+514,2017-12-21,2017-12-25,Standard Class,Bradley Nguyen,Consumer,Los Angeles,California,West,Office Supplies,Art,6.63,3,2.21,4
+515,2017-12-21,2017-12-25,Standard Class,Bradley Nguyen,Consumer,Los Angeles,California,West,Office Supplies,Art,5.88,2,2.94,4
+516,2017-01-22,2017-01-27,Standard Class,Alan Dominguez,Home Office,Great Falls,Montana,West,Technology,Copiers,2999.95,5,599.99,5
+517,2017-01-22,2017-01-27,Standard Class,Alan Dominguez,Home Office,Great Falls,Montana,West,Office Supplies,Storage,51.45,3,17.15,5
+518,2017-01-22,2017-01-27,Standard Class,Alan Dominguez,Home Office,Great Falls,Montana,West,Office Supplies,Paper,11.96,2,5.98,5
+519,2017-01-22,2017-01-27,Standard Class,Alan Dominguez,Home Office,Great Falls,Montana,West,Office Supplies,Storage,1126.02,3,375.34,5
+520,2015-03-22,2015-03-26,Standard Class,Dean Braden,Consumer,Houston,Texas,Central,Technology,Accessories,18.392,1,18.392,4
+521,2015-03-22,2015-03-26,Standard Class,Dean Braden,Consumer,Houston,Texas,Central,Office Supplies,Storage,129.568,2,64.784,4
+522,2015-03-22,2015-03-26,Standard Class,Dean Braden,Consumer,Houston,Texas,Central,Office Supplies,Binders,14.112,9,1.568,4
+523,2017-01-23,2017-01-25,First Class,Matt Connell,Corporate,Detroit,Michigan,Central,Furniture,Tables,210.98,2,105.49,2
+524,2016-05-21,2016-05-23,First Class,Logan Haushalter,Consumer,Los Angeles,California,West,Technology,Phones,55.176,3,18.392,2
+525,2016-05-21,2016-05-23,First Class,Logan Haushalter,Consumer,Los Angeles,California,West,Technology,Accessories,66.26,2,33.13,2
+526,2015-12-26,2016-01-02,Standard Class,Brian Dahlen,Consumer,Lawrence,Massachusetts,East,Office Supplies,Fasteners,22.2,5,4.44,7
+527,2017-10-21,2017-10-26,Standard Class,Patricia Hirasaki,Home Office,Lakeland,Florida,South,Furniture,Chairs,683.952,3,227.984,5
+528,2017-10-21,2017-10-26,Standard Class,Patricia Hirasaki,Home Office,Lakeland,Florida,South,Furniture,Furnishings,45.696,3,15.232,5
+529,2015-09-03,2015-09-07,Standard Class,Mike Gockenbach,Consumer,Philadelphia,Pennsylvania,East,Office Supplies,Storage,36.336,3,12.112,4
+530,2015-09-03,2015-09-07,Standard Class,Mike Gockenbach,Consumer,Philadelphia,Pennsylvania,East,Office Supplies,Supplies,666.248,1,666.248,4
+531,2015-09-03,2015-09-07,Standard Class,Mike Gockenbach,Consumer,Philadelphia,Pennsylvania,East,Office Supplies,Envelopes,52.512,6,8.752,4
+532,2015-11-07,2015-11-09,Second Class,Karen Bern,Corporate,Los Angeles,California,West,Furniture,Chairs,190.72,1,190.72,2
+533,2017-09-07,2017-09-11,Standard Class,Jasper Cacioppo,Consumer,Los Angeles,California,West,Furniture,Furnishings,47.94,3,15.98,4
+534,2016-05-29,2016-06-01,Second Class,Rob Lucas,Consumer,Montgomery,Alabama,South,Technology,Phones,979.95,5,195.99,3
+535,2016-05-29,2016-06-01,Second Class,Rob Lucas,Consumer,Montgomery,Alabama,South,Office Supplies,Binders,22.75,5,4.55,3
+536,2016-07-10,2016-07-16,Standard Class,Allen Armold,Consumer,Mesa,Arizona,West,Office Supplies,Storage,16.768,2,8.384,6
+537,2017-09-03,2017-09-08,Second Class,Emily Phan,Consumer,Chicago,Illinois,Central,Office Supplies,Binders,42.616,7,6.088,5
+538,2015-12-03,2015-12-08,Standard Class,Mark Packer,Home Office,New York City,New York,East,Office Supplies,Binders,10.752,4,2.688,5
+539,2015-12-07,2015-12-11,Standard Class,Darren Koutras,Consumer,Henderson,Kentucky,South,Office Supplies,Appliances,152.94,3,50.98,4
+540,2015-12-07,2015-12-11,Standard Class,Darren Koutras,Consumer,Henderson,Kentucky,South,Furniture,Chairs,283.92,4,70.98,4
+541,2014-02-01,2014-02-03,First Class,Bradley Drucker,Consumer,Green Bay,Wisconsin,Central,Technology,Accessories,468.9,6,78.15,2
+542,2016-07-14,2016-07-17,First Class,Erin Smith,Corporate,Tucson,Arizona,West,Technology,Phones,380.864,8,47.608,3
+543,2015-12-18,2015-12-23,Standard Class,Liz MacKendrick,Consumer,Springfield,Ohio,East,Office Supplies,Storage,646.776,9,71.864,5
+544,2014-05-11,2014-05-16,Standard Class,Paul Gonzalez,Consumer,Fort Worth,Texas,Central,Technology,Accessories,58.112,2,29.056,5
+545,2014-05-11,2014-05-16,Standard Class,Paul Gonzalez,Consumer,Fort Worth,Texas,Central,Technology,Phones,100.792,1,100.792,5
+546,2014-05-11,2014-05-16,Standard Class,Paul Gonzalez,Consumer,Fort Worth,Texas,Central,Furniture,Furnishings,66.112,4,16.528,5
+547,2017-11-19,2017-11-22,First Class,Adrian Shami,Home Office,New York City,New York,East,Office Supplies,Binders,41.28,6,6.88,3
+548,2017-11-19,2017-11-22,First Class,Adrian Shami,Home Office,New York City,New York,East,Office Supplies,Paper,13.36,2,6.68,3
+549,2015-11-15,2015-11-17,Second Class,Dean Katz,Corporate,Chicago,Illinois,Central,Office Supplies,Storage,250.272,9,27.808,2
+550,2015-11-15,2015-11-17,Second Class,Dean Katz,Corporate,Chicago,Illinois,Central,Office Supplies,Binders,11.364,3,3.788,2
+551,2015-11-15,2015-11-17,Second Class,Dean Katz,Corporate,Chicago,Illinois,Central,Office Supplies,Supplies,8.72,5,1.744,2
+552,2016-04-15,2016-04-17,Second Class,Bill Donatelli,Consumer,San Francisco,California,West,Furniture,Chairs,1121.568,2,560.784,2
+553,2017-09-11,2017-09-12,First Class,Ryan Crowe,Consumer,Jacksonville,Florida,South,Furniture,Furnishings,34.504,1,34.504,1
+554,2017-11-24,2017-11-28,Standard Class,Greg Tran,Consumer,Houston,Texas,Central,Office Supplies,Fasteners,10.824,3,3.608,4
+555,2017-06-29,2017-07-03,Second Class,Dean Katz,Corporate,Anaheim,California,West,Office Supplies,Storage,1295.78,2,647.89,4
+556,2014-03-03,2014-03-07,Second Class,Ashley Jarboe,Consumer,Wilmington,North Carolina,South,Office Supplies,Art,19.456,4,4.864,4
+557,2016-06-10,2016-06-15,Standard Class,Olvera Toch,Consumer,Los Angeles,California,West,Office Supplies,Labels,20.7,2,10.35,5
+558,2016-06-10,2016-06-15,Standard Class,Olvera Toch,Consumer,Los Angeles,California,West,Furniture,Tables,1335.68,4,333.92,5
+559,2016-06-10,2016-06-15,Standard Class,Olvera Toch,Consumer,Los Angeles,California,West,Office Supplies,Paper,32.4,5,6.48,5
+560,2017-11-20,2017-11-22,Second Class,Liz Pelletier,Consumer,San Francisco,California,West,Furniture,Furnishings,42.6,3,14.2,2
+561,2017-11-20,2017-11-22,Second Class,Liz Pelletier,Consumer,San Francisco,California,West,Office Supplies,Binders,84.056,7,12.008,2
+562,2014-09-14,2014-09-18,Second Class,Cynthia Arntzen,Consumer,Tampa,Florida,South,Office Supplies,Appliances,13,5,2.6,4
+563,2014-09-14,2014-09-18,Second Class,Cynthia Arntzen,Consumer,Tampa,Florida,South,Furniture,Furnishings,13.128,3,4.376,4
+564,2015-12-07,2015-12-09,First Class,Jeremy Farry,Consumer,Seattle,Washington,West,Office Supplies,Fasteners,3.96,2,1.98,2
+565,2015-12-07,2015-12-09,First Class,Jeremy Farry,Consumer,Seattle,Washington,West,Office Supplies,Labels,2.61,1,2.61,2
+566,2017-12-07,2017-12-10,First Class,Frank Preis,Consumer,Los Angeles,California,West,Technology,Phones,374.376,3,124.792,3
+567,2017-10-01,2017-10-08,Standard Class,Ellis Ballard,Corporate,Seattle,Washington,West,Office Supplies,Paper,91.84,8,11.48,7
+568,2017-10-01,2017-10-08,Standard Class,Ellis Ballard,Corporate,Seattle,Washington,West,Office Supplies,Binders,81.088,7,11.584,7
+569,2017-10-01,2017-10-08,Standard Class,Ellis Ballard,Corporate,Seattle,Washington,West,Office Supplies,Paper,19.44,3,6.48,7
+570,2017-10-01,2017-10-08,Standard Class,Ellis Ballard,Corporate,Seattle,Washington,West,Furniture,Chairs,451.152,3,150.384,7
+571,2017-12-28,2018-01-04,Standard Class,Jennifer Ferguson,Consumer,New York City,New York,East,Office Supplies,Labels,72.45,7,10.35,7
+572,2017-12-28,2018-01-04,Standard Class,Jennifer Ferguson,Consumer,New York City,New York,East,Office Supplies,Fasteners,13.96,4,3.49,7
+573,2017-12-28,2018-01-04,Standard Class,Jennifer Ferguson,Consumer,New York City,New York,East,Office Supplies,Binders,33.264,7,4.752,7
+574,2017-12-28,2018-01-04,Standard Class,Jennifer Ferguson,Consumer,New York City,New York,East,Technology,Phones,14.85,3,4.95,7
+575,2016-11-03,2016-11-07,Standard Class,Sarah Foster,Consumer,Marysville,Washington,West,Office Supplies,Art,8.82,3,2.94,4
+576,2015-09-18,2015-09-22,Second Class,Trudy Glocke,Consumer,Long Beach,California,West,Office Supplies,Paper,160.72,14,11.48,4
+577,2015-09-18,2015-09-22,Second Class,Trudy Glocke,Consumer,Long Beach,California,West,Office Supplies,Paper,19.92,4,4.98,4
+578,2015-09-18,2015-09-22,Second Class,Trudy Glocke,Consumer,Long Beach,California,West,Office Supplies,Supplies,7.3,2,3.65,4
+579,2017-07-20,2017-07-26,Standard Class,Carlos Soltero,Consumer,Chicago,Illinois,Central,Office Supplies,Storage,69.712,2,34.856,6
+580,2017-07-20,2017-07-26,Standard Class,Carlos Soltero,Consumer,Chicago,Illinois,Central,Furniture,Furnishings,8.792,1,8.792,6
+581,2015-09-10,2015-09-14,Standard Class,Charles Crestani,Consumer,Los Angeles,California,West,Office Supplies,Supplies,51.52,4,12.88,4
+582,2017-12-01,2017-12-05,Standard Class,Dianna Vittorini,Consumer,Denver,Colorado,West,Technology,Phones,470.376,3,156.792,4
+583,2017-12-01,2017-12-05,Standard Class,Dianna Vittorini,Consumer,Denver,Colorado,West,Technology,Phones,105.584,2,52.792,4
+584,2017-12-01,2017-12-05,Standard Class,Dianna Vittorini,Consumer,Denver,Colorado,West,Office Supplies,Appliances,31.152,3,10.384,4
+585,2017-12-01,2017-12-05,Standard Class,Dianna Vittorini,Consumer,Denver,Colorado,West,Office Supplies,Binders,6.783,7,0.969,4
+586,2017-12-01,2017-12-05,Standard Class,Dianna Vittorini,Consumer,Denver,Colorado,West,Technology,Phones,406.368,4,101.592,4
+587,2015-07-03,2015-07-09,Standard Class,Bruce Degenhardt,Consumer,Richmond,Kentucky,South,Furniture,Chairs,70.98,1,70.98,6
+588,2015-07-03,2015-07-09,Standard Class,Bruce Degenhardt,Consumer,Richmond,Kentucky,South,Office Supplies,Labels,294.93,3,98.31,6
+589,2016-03-20,2016-03-24,Standard Class,Zuschuss Carroll,Consumer,Salem,Oregon,West,Technology,Phones,84.784,2,42.392,4
+590,2016-03-20,2016-03-24,Standard Class,Zuschuss Carroll,Consumer,Salem,Oregon,West,Office Supplies,Paper,20.736,4,5.184,4
+591,2016-03-20,2016-03-24,Standard Class,Zuschuss Carroll,Consumer,Salem,Oregon,West,Office Supplies,Binders,16.821,3,5.607,4
+592,2016-03-20,2016-03-24,Standard Class,Zuschuss Carroll,Consumer,Salem,Oregon,West,Office Supplies,Paper,10.368,2,5.184,4
+593,2014-01-09,2014-01-13,Standard Class,Melanie Seite,Consumer,Laredo,Texas,Central,Office Supplies,Art,9.344,2,4.672,4
+594,2014-01-09,2014-01-13,Standard Class,Melanie Seite,Consumer,Laredo,Texas,Central,Technology,Accessories,31.2,3,10.4,4
+595,2014-08-08,2014-08-15,Standard Class,Lena Radford,Consumer,San Diego,California,West,Office Supplies,Appliances,76.12,2,38.06,7
+596,2014-08-08,2014-08-15,Standard Class,Lena Radford,Consumer,San Diego,California,West,Technology,Copiers,1199.976,3,399.992,7
+597,2014-08-08,2014-08-15,Standard Class,Lena Radford,Consumer,San Diego,California,West,Technology,Phones,445.96,5,89.192,7
+598,2014-08-08,2014-08-15,Standard Class,Lena Radford,Consumer,San Diego,California,West,Furniture,Furnishings,327.76,8,40.97,7
+599,2016-07-14,2016-07-16,First Class,Theone Pippenger,Consumer,Philadelphia,Pennsylvania,East,Office Supplies,Supplies,11.632,2,5.816,2
+600,2016-07-16,2016-07-21,Standard Class,Chloris Kastensmidt,Consumer,Philadelphia,Pennsylvania,East,Technology,Phones,143.982,3,47.994,5
+601,2016-07-16,2016-07-21,Standard Class,Chloris Kastensmidt,Consumer,Philadelphia,Pennsylvania,East,Technology,Phones,494.376,4,123.594,5
+602,2016-07-16,2016-07-21,Standard Class,Chloris Kastensmidt,Consumer,Philadelphia,Pennsylvania,East,Office Supplies,Supplies,5.84,2,2.92,5
+603,2014-03-15,2014-03-19,Standard Class,Alan Shonely,Consumer,Tampa,Florida,South,Office Supplies,Storage,142.776,1,142.776,4
+604,2014-03-15,2014-03-19,Standard Class,Alan Shonely,Consumer,Tampa,Florida,South,Furniture,Furnishings,45.696,3,15.232,4
+605,2014-03-15,2014-03-19,Standard Class,Alan Shonely,Consumer,Tampa,Florida,South,Office Supplies,Binders,7.218,3,2.406,4
+606,2014-03-15,2014-03-19,Standard Class,Alan Shonely,Consumer,Tampa,Florida,South,Office Supplies,Binders,43.188,4,10.797,4
+607,2014-03-15,2014-03-19,Standard Class,Alan Shonely,Consumer,Tampa,Florida,South,Office Supplies,Paper,131.904,3,43.968,4
+608,2014-05-23,2014-05-27,Standard Class,Andrew Roberts,Consumer,Philadelphia,Pennsylvania,East,Office Supplies,Binders,3.282,2,1.641,4
+609,2014-05-23,2014-05-27,Standard Class,Andrew Roberts,Consumer,Philadelphia,Pennsylvania,East,Office Supplies,Art,21.168,9,2.352,4
+610,2014-05-23,2014-05-27,Standard Class,Andrew Roberts,Consumer,Philadelphia,Pennsylvania,East,Technology,Phones,55.188,2,27.594,4
+611,2016-04-28,2016-05-01,First Class,Nona Balk,Corporate,Dallas,Texas,Central,Technology,Phones,369.576,3,123.192,3
+612,2016-04-28,2016-05-01,First Class,Nona Balk,Corporate,Dallas,Texas,Central,Office Supplies,Labels,15.712,4,3.928,3
+613,2016-09-11,2016-09-13,Second Class,Giulietta Dortch,Corporate,Philadelphia,Pennsylvania,East,Office Supplies,Paper,8.448,2,4.224,2
+614,2016-09-11,2016-09-13,Second Class,Giulietta Dortch,Corporate,Philadelphia,Pennsylvania,East,Technology,Phones,728.946,9,80.994,2
+615,2017-11-14,2017-11-17,Second Class,Clytie Kelty,Consumer,Grove City,Ohio,East,Technology,Phones,119.94,10,11.994,3
+616,2017-11-14,2017-11-17,Second Class,Clytie Kelty,Consumer,Grove City,Ohio,East,Office Supplies,Binders,3.648,2,1.824,3
+617,2017-08-18,2017-08-23,Second Class,Nat Gilpin,Corporate,New York City,New York,East,Furniture,Furnishings,40.48,2,20.24,5
+618,2017-08-18,2017-08-23,Second Class,Nat Gilpin,Corporate,New York City,New York,East,Furniture,Furnishings,9.94,2,4.97,5
+619,2017-08-18,2017-08-23,Second Class,Nat Gilpin,Corporate,New York City,New York,East,Office Supplies,Binders,107.424,9,11.936,5
+620,2017-08-18,2017-08-23,Second Class,Nat Gilpin,Corporate,New York City,New York,East,Technology,Phones,37.91,1,37.91,5
+621,2017-08-18,2017-08-23,Second Class,Nat Gilpin,Corporate,New York City,New York,East,Furniture,Furnishings,88.02,3,29.34,5
+622,2014-12-26,2014-12-31,Standard Class,Christina Anderson,Consumer,Chicago,Illinois,Central,Office Supplies,Binders,8.69,5,1.738,5
+623,2015-11-29,2015-12-03,Standard Class,Sylvia Foulston,Corporate,Dearborn,Michigan,Central,Furniture,Chairs,301.96,2,150.98,4
+624,2015-11-29,2015-12-03,Standard Class,Sylvia Foulston,Corporate,Dearborn,Michigan,Central,Office Supplies,Appliances,555.21,5,111.042,4
+625,2015-11-29,2015-12-03,Standard Class,Sylvia Foulston,Corporate,Dearborn,Michigan,Central,Office Supplies,Storage,523.48,4,130.87,4
+626,2015-11-29,2015-12-03,Standard Class,Sylvia Foulston,Corporate,Dearborn,Michigan,Central,Office Supplies,Art,161.82,9,17.98,4
+627,2017-09-15,2017-09-19,Standard Class,Meg O'Connel,Home Office,New York City,New York,East,Furniture,Furnishings,35.56,7,5.08,4
+628,2017-05-19,2017-05-23,Standard Class,Annie Thurman,Consumer,Seattle,Washington,West,Office Supplies,Appliances,97.16,2,48.58,4
+629,2017-12-17,2017-12-21,Standard Class,Logan Currie,Consumer,San Francisco,California,West,Office Supplies,Binders,15.24,5,3.048,4
+630,2017-12-17,2017-12-21,Standard Class,Logan Currie,Consumer,San Francisco,California,West,Office Supplies,Paper,13.23,3,4.41,4
+631,2016-12-11,2016-12-13,Second Class,Fred McMath,Consumer,Aurora,Colorado,West,Office Supplies,Storage,243.384,3,81.128,2
+632,2016-12-11,2016-12-13,Second Class,Fred McMath,Consumer,Aurora,Colorado,West,Technology,Accessories,119.8,5,23.96,2
+633,2016-12-11,2016-12-13,Second Class,Fred McMath,Consumer,Aurora,Colorado,West,Technology,Phones,300.768,4,75.192,2
+634,2017-09-24,2017-09-26,Second Class,Brian Dahlen,Consumer,Miami,Florida,South,Technology,Accessories,17.88,3,5.96,2
+635,2017-09-24,2017-09-26,Second Class,Brian Dahlen,Consumer,Miami,Florida,South,Office Supplies,Labels,235.944,3,78.648,2
+636,2015-10-04,2015-10-09,Second Class,Denny Joy,Corporate,Warner Robins,Georgia,South,Furniture,Chairs,392.94,3,130.98,5
+637,2016-08-15,2016-08-21,Standard Class,Max Engle,Consumer,Aurora,Colorado,West,Office Supplies,Binders,18.882,3,6.294,6
+638,2016-08-15,2016-08-21,Standard Class,Max Engle,Consumer,Aurora,Colorado,West,Office Supplies,Appliances,122.328,3,40.776,6
+639,2016-05-20,2016-05-25,Standard Class,Rick Bensley,Home Office,Vallejo,California,West,Furniture,Furnishings,1049.2,5,209.84,5
+640,2016-05-20,2016-05-25,Standard Class,Rick Bensley,Home Office,Vallejo,California,West,Office Supplies,Binders,15.424,4,3.856,5
+641,2016-12-18,2016-12-22,Standard Class,Justin Deggeller,Corporate,Minneapolis,Minnesota,Central,Furniture,Furnishings,18.84,3,6.28,4
+642,2017-07-30,2017-08-03,Second Class,John Lee,Consumer,Mission Viejo,California,West,Office Supplies,Storage,330.4,2,165.2,4
+643,2017-07-30,2017-08-03,Second Class,John Lee,Consumer,Mission Viejo,California,West,Office Supplies,Labels,26.25,7,3.75,4
+644,2017-06-10,2017-06-15,Standard Class,Sean Christensen,Consumer,Rochester Hills,Michigan,Central,Technology,Accessories,132.52,4,33.13,5
+645,2017-07-21,2017-07-25,Standard Class,Tamara Willingham,Home Office,Plainfield,New Jersey,East,Office Supplies,Paper,6.48,1,6.48,4
+646,2017-12-30,2018-01-05,Standard Class,Chuck Clark,Home Office,Columbus,Indiana,Central,Office Supplies,Appliances,209.3,2,104.65,6
+647,2016-04-01,2016-04-08,Standard Class,Barry Blumstein,Corporate,Sierra Vista,Arizona,West,Office Supplies,Fasteners,31.56,5,6.312,7
+648,2016-04-01,2016-04-08,Standard Class,Barry Blumstein,Corporate,Sierra Vista,Arizona,West,Office Supplies,Appliances,30.144,2,15.072,7
+649,2016-12-11,2016-12-16,Second Class,Anthony Rawles,Corporate,Vancouver,Washington,West,Furniture,Furnishings,14.8,4,3.7,5
+650,2016-12-11,2016-12-16,Second Class,Anthony Rawles,Corporate,Vancouver,Washington,West,Technology,Phones,302.376,3,100.792,5
+651,2016-12-11,2016-12-16,Second Class,Anthony Rawles,Corporate,Vancouver,Washington,West,Technology,Accessories,316,4,79,5
+652,2016-10-23,2016-10-29,Standard Class,Steven Roelle,Home Office,New York City,New York,East,Office Supplies,Paper,379.4,10,37.94,6
+653,2017-06-19,2017-06-23,Standard Class,Allen Rosenblatt,Corporate,New York City,New York,East,Office Supplies,Paper,97.82,2,48.91,4
+654,2017-06-19,2017-06-23,Standard Class,Allen Rosenblatt,Corporate,New York City,New York,East,Technology,Accessories,103.12,8,12.89,4
+655,2016-08-22,2016-08-28,Standard Class,Craig Reiter,Consumer,Columbus,Ohio,East,Office Supplies,Appliances,113.552,2,56.776,6
+656,2016-08-22,2016-08-28,Standard Class,Craig Reiter,Consumer,Columbus,Ohio,East,Office Supplies,Binders,3.318,2,1.659,6
+657,2016-08-22,2016-08-28,Standard Class,Craig Reiter,Consumer,Columbus,Ohio,East,Office Supplies,Envelopes,134.288,2,67.144,6
+658,2016-09-19,2016-09-19,Same Day,Eugene Hildebrand,Home Office,Aurora,Illinois,Central,Furniture,Chairs,701.372,2,350.686,0
+659,2016-09-19,2016-09-19,Same Day,Eugene Hildebrand,Home Office,Aurora,Illinois,Central,Office Supplies,Binders,2.308,2,1.154,0
+660,2015-08-24,2015-08-28,Standard Class,Cassandra Brandow,Consumer,Arlington,Texas,Central,Office Supplies,Storage,999.432,7,142.776,4
+661,2015-08-24,2015-08-28,Standard Class,Cassandra Brandow,Consumer,Arlington,Texas,Central,Office Supplies,Storage,724.08,14,51.72,4
+662,2015-08-24,2015-08-28,Standard Class,Cassandra Brandow,Consumer,Arlington,Texas,Central,Furniture,Tables,918.785,5,183.757,4
+663,2015-08-24,2015-08-28,Standard Class,Cassandra Brandow,Consumer,Arlington,Texas,Central,Office Supplies,Binders,2.724,3,0.908,4
+664,2016-03-26,2016-03-30,Standard Class,Sibella Parks,Corporate,New York City,New York,East,Office Supplies,Storage,459.95,5,91.99,4
+665,2016-11-04,2016-11-04,Same Day,Roy Collins,Consumer,Louisville,Kentucky,South,Office Supplies,Fasteners,10.74,3,3.58,0
+666,2017-06-08,2017-06-10,Second Class,Tiffany House,Corporate,Dallas,Texas,Central,Office Supplies,Supplies,23.76,3,7.92,2
+667,2017-06-08,2017-06-10,Second Class,Tiffany House,Corporate,Dallas,Texas,Central,Office Supplies,Paper,85.056,3,28.352,2
+668,2017-06-08,2017-06-10,Second Class,Tiffany House,Corporate,Dallas,Texas,Central,Technology,Phones,381.576,3,127.192,2
+669,2014-12-24,2014-12-26,First Class,Resi Pölking,Consumer,Cleveland,Ohio,East,Furniture,Furnishings,30.36,5,6.072,2
+670,2017-06-09,2017-06-13,Standard Class,Meg O'Connel,Home Office,Chicago,Illinois,Central,Furniture,Furnishings,23.976,3,7.992,4
+671,2017-06-09,2017-06-13,Standard Class,Meg O'Connel,Home Office,Chicago,Illinois,Central,Furniture,Tables,108.925,1,108.925,4
+672,2017-06-09,2017-06-13,Standard Class,Meg O'Connel,Home Office,Chicago,Illinois,Central,Office Supplies,Paper,36.352,8,4.544,4
+673,2017-06-15,2017-06-22,Standard Class,Tamara Dahlen,Consumer,Quincy,Illinois,Central,Office Supplies,Art,19.56,5,3.912,7
+674,2017-12-05,2017-12-08,First Class,Rob Beeghly,Consumer,Columbus,Indiana,Central,Office Supplies,Appliances,61.44,3,20.48,3
+675,2017-12-05,2017-12-08,First Class,Rob Beeghly,Consumer,Columbus,Indiana,Central,Office Supplies,Paper,38.9,5,7.78,3
+676,2017-12-05,2017-12-08,First Class,Rob Beeghly,Consumer,Columbus,Indiana,Central,Technology,Accessories,99.39,3,33.13,3
+677,2017-03-18,2017-03-23,Standard Class,Carol Darley,Consumer,Tyler,Texas,Central,Office Supplies,Appliances,2.688,3,0.896,5
+678,2017-03-18,2017-03-23,Standard Class,Carol Darley,Consumer,Tyler,Texas,Central,Technology,Accessories,27.816,3,9.272,5
+679,2017-03-18,2017-03-23,Standard Class,Carol Darley,Consumer,Tyler,Texas,Central,Furniture,Furnishings,82.524,3,27.508,5
+680,2017-03-18,2017-03-23,Standard Class,Carol Darley,Consumer,Tyler,Texas,Central,Office Supplies,Binders,182.994,3,60.998,5
+681,2016-11-19,2016-11-24,Standard Class,Doug Jacobs,Consumer,New York City,New York,East,Office Supplies,Binders,14.352,3,4.784,5
+682,2016-11-19,2016-11-24,Standard Class,Doug Jacobs,Consumer,New York City,New York,East,Office Supplies,Storage,64.96,2,32.48,5
+683,2016-11-19,2016-11-24,Standard Class,Doug Jacobs,Consumer,New York City,New York,East,Office Supplies,Storage,68.6,4,17.15,5
+684,2017-11-04,2017-11-04,Same Day,Grant Thornton,Corporate,Burlington,North Carolina,South,Technology,Machines,7999.98,4,1999.995,0
+685,2017-11-04,2017-11-04,Same Day,Grant Thornton,Corporate,Burlington,North Carolina,South,Office Supplies,Appliances,167.44,2,83.72,0
+686,2014-07-05,2014-07-08,First Class,Michael Chen,Consumer,Jackson,Mississippi,South,Technology,Accessories,479.97,3,159.99,3
+687,2014-07-05,2014-07-08,First Class,Michael Chen,Consumer,Jackson,Mississippi,South,Office Supplies,Labels,14.62,2,7.31,3
+688,2014-07-05,2014-07-08,First Class,Michael Chen,Consumer,Jackson,Mississippi,South,Office Supplies,Paper,19.44,3,6.48,3
+689,2017-12-25,2017-12-29,Standard Class,Ralph Arnett,Consumer,New York City,New York,East,Furniture,Bookcases,191.984,2,95.992,4
+690,2014-06-21,2014-06-23,Second Class,Naresj Patel,Consumer,Waynesboro,Virginia,South,Furniture,Furnishings,104.01,1,104.01,2
+691,2014-06-21,2014-06-23,Second Class,Naresj Patel,Consumer,Waynesboro,Virginia,South,Technology,Phones,284.82,1,284.82,2
+692,2014-06-21,2014-06-23,Second Class,Naresj Patel,Consumer,Waynesboro,Virginia,South,Office Supplies,Storage,36.84,3,12.28,2
+693,2015-03-28,2015-04-02,Standard Class,Alan Barnes,Consumer,Los Angeles,California,West,Technology,Accessories,166.24,1,166.24,5
+694,2015-03-28,2015-04-02,Standard Class,Alan Barnes,Consumer,Los Angeles,California,West,Office Supplies,Paper,33.4,5,6.68,5
+702,2017-09-02,2017-09-08,Standard Class,Dorris liebe,Corporate,Cleveland,Ohio,East,Furniture,Furnishings,15.072,3,5.024,6
+703,2016-11-04,2016-11-08,Second Class,Alejandro Savely,Corporate,Seattle,Washington,West,Furniture,Furnishings,209.88,3,69.96,4
+704,2015-04-09,2015-04-14,Standard Class,Jay Kimmel,Consumer,Long Beach,California,West,Furniture,Tables,369.912,3,123.304,5
+705,2014-09-12,2014-09-17,Standard Class,Brad Norvell,Corporate,Cary,North Carolina,South,Office Supplies,Paper,10.368,2,5.184,5
+706,2014-09-12,2014-09-17,Standard Class,Brad Norvell,Corporate,Cary,North Carolina,South,Office Supplies,Appliances,166.84,5,33.368,5
+707,2014-09-12,2014-09-17,Standard Class,Brad Norvell,Corporate,Cary,North Carolina,South,Technology,Accessories,15.216,1,15.216,5
+708,2014-12-02,2014-12-04,First Class,David Philippe,Consumer,New York City,New York,East,Technology,Accessories,119.96,4,29.99,2
+709,2014-12-02,2014-12-04,First Class,David Philippe,Consumer,New York City,New York,East,Furniture,Bookcases,883.92,5,176.784,2
+710,2014-12-02,2014-12-04,First Class,David Philippe,Consumer,New York City,New York,East,Office Supplies,Binders,46.72,8,5.84,2
+711,2014-04-05,2014-04-07,First Class,Tracy Hopkins,Home Office,New York City,New York,East,Office Supplies,Paper,55.48,1,55.48,2
+712,2017-09-03,2017-09-07,Standard Class,Arthur Prichep,Consumer,Palm Coast,Florida,South,Office Supplies,Envelopes,24.448,4,6.112,4
+713,2017-05-19,2017-05-24,Standard Class,Roland Schwarz,Corporate,Mount Vernon,New York,East,Office Supplies,Appliances,281.34,6,46.89,5
+714,2017-05-19,2017-05-24,Standard Class,Roland Schwarz,Corporate,Mount Vernon,New York,East,Technology,Phones,307.98,2,153.99,5
+715,2017-05-19,2017-05-24,Standard Class,Roland Schwarz,Corporate,Mount Vernon,New York,East,Technology,Accessories,299.97,3,99.99,5
+716,2014-07-01,2014-07-06,Second Class,Dorris liebe,Corporate,Seattle,Washington,West,Office Supplies,Binders,19.92,5,3.984,5
+718,2017-09-24,2017-09-29,Standard Class,Kelly Collister,Consumer,Newark,Ohio,East,Furniture,Furnishings,103.056,3,34.352,5
+719,2014-06-02,2014-06-07,Standard Class,Christine Kargatis,Home Office,Orem,Utah,West,Office Supplies,Binders,59.808,3,19.936,5
+720,2014-06-02,2014-06-07,Standard Class,Christine Kargatis,Home Office,Orem,Utah,West,Furniture,Furnishings,73.32,6,12.22,5
+721,2016-02-13,2016-02-18,Standard Class,Ross DeVincentis,Home Office,Los Angeles,California,West,Office Supplies,Paper,146.82,3,48.94,5
+722,2016-12-15,2016-12-19,Standard Class,Michael Paige,Corporate,Detroit,Michigan,Central,Furniture,Tables,1652.94,3,550.98,4
+723,2016-12-15,2016-12-19,Standard Class,Michael Paige,Corporate,Detroit,Michigan,Central,Office Supplies,Storage,296.37,3,98.79,4
+724,2014-10-07,2014-10-13,Standard Class,Mathew Reese,Home Office,Philadelphia,Pennsylvania,East,Furniture,Furnishings,129.92,5,25.984,6
+725,2016-07-07,2016-07-12,Standard Class,Steve Chapman,Corporate,Hialeah,Florida,South,Office Supplies,Supplies,45.584,7,6.512,5
+726,2017-09-16,2017-09-20,Standard Class,Jay Fein,Consumer,Austin,Texas,Central,Office Supplies,Envelopes,17.568,2,8.784,4
+727,2017-09-16,2017-09-20,Standard Class,Jay Fein,Consumer,Austin,Texas,Central,Technology,Phones,55.992,1,55.992,4
+728,2016-12-03,2016-12-06,First Class,Emily Grady,Consumer,Oceanside,New York,East,Office Supplies,Paper,182.72,8,22.84,3
+729,2016-12-03,2016-12-06,First Class,Emily Grady,Consumer,Oceanside,New York,East,Furniture,Tables,400.032,2,200.016,3
+730,2016-12-03,2016-12-06,First Class,Emily Grady,Consumer,Oceanside,New York,East,Office Supplies,Storage,33.63,3,11.21,3
+731,2016-12-03,2016-12-06,First Class,Emily Grady,Consumer,Oceanside,New York,East,Furniture,Chairs,542.646,3,180.882,3
+732,2016-12-03,2016-12-06,First Class,Emily Grady,Consumer,Oceanside,New York,East,Office Supplies,Labels,6.3,2,3.15,3
+733,2017-01-21,2017-01-25,Standard Class,Darrin Sayre,Home Office,Seattle,Washington,West,Office Supplies,Storage,242.94,3,80.98,4
+734,2017-01-21,2017-01-25,Standard Class,Darrin Sayre,Home Office,Seattle,Washington,West,Technology,Accessories,179.97,3,59.99,4
+735,2017-01-21,2017-01-25,Standard Class,Darrin Sayre,Home Office,Seattle,Washington,West,Office Supplies,Binders,99.696,6,16.616,4
+736,2017-01-21,2017-01-25,Standard Class,Darrin Sayre,Home Office,Seattle,Washington,West,Office Supplies,Binders,27.936,4,6.984,4
+737,2017-01-21,2017-01-25,Standard Class,Darrin Sayre,Home Office,Seattle,Washington,West,Furniture,Bookcases,84.98,1,84.98,4
+738,2017-01-21,2017-01-25,Standard Class,Darrin Sayre,Home Office,Seattle,Washington,West,Office Supplies,Binders,18.72,5,3.744,4
+739,2014-09-08,2014-09-12,Standard Class,Gary Zandusky,Consumer,San Francisco,California,West,Technology,Accessories,49.98,2,24.99,4
+740,2014-01-04,2014-01-08,Standard Class,Phillina Ober,Home Office,Naperville,Illinois,Central,Office Supplies,Labels,11.784,3,3.928,4
+741,2014-01-04,2014-01-08,Standard Class,Phillina Ober,Home Office,Naperville,Illinois,Central,Office Supplies,Storage,272.736,3,90.912,4
+742,2014-01-04,2014-01-08,Standard Class,Phillina Ober,Home Office,Naperville,Illinois,Central,Office Supplies,Binders,3.54,2,1.77,4
+743,2016-08-27,2016-09-01,Standard Class,Sung Shariari,Consumer,Dallas,Texas,Central,Office Supplies,Supplies,51.52,5,10.304,5
+744,2016-08-27,2016-09-01,Standard Class,Sung Shariari,Consumer,Dallas,Texas,Central,Office Supplies,Paper,3.528,1,3.528,5
+745,2016-08-27,2016-09-01,Standard Class,Sung Shariari,Consumer,Dallas,Texas,Central,Office Supplies,Paper,4.624,1,4.624,5
+746,2016-08-27,2016-09-01,Standard Class,Sung Shariari,Consumer,Dallas,Texas,Central,Office Supplies,Supplies,55.168,4,13.792,5
+747,2014-05-27,2014-05-27,Same Day,Maya Herman,Corporate,San Diego,California,West,Furniture,Tables,567.12,10,56.712,0
+748,2014-05-27,2014-05-27,Same Day,Maya Herman,Corporate,San Diego,California,West,Office Supplies,Storage,359.32,4,89.83,0
+749,2016-03-20,2016-03-22,Second Class,Peter Bühler,Consumer,Evanston,Illinois,Central,Technology,Phones,11.992,1,11.992,2
+750,2017-10-02,2017-10-06,Standard Class,Roland Fjeld,Consumer,Trenton,Michigan,Central,Office Supplies,Binders,58.05,3,19.35,4
+751,2017-10-02,2017-10-06,Standard Class,Roland Fjeld,Consumer,Trenton,Michigan,Central,Furniture,Furnishings,157.74,11,14.34,4
+752,2017-10-02,2017-10-06,Standard Class,Roland Fjeld,Consumer,Trenton,Michigan,Central,Office Supplies,Art,56.98,7,8.14,4
+753,2017-10-02,2017-10-06,Standard Class,Roland Fjeld,Consumer,Trenton,Michigan,Central,Office Supplies,Binders,2.88,1,2.88,4
+754,2016-04-07,2016-04-09,First Class,Yoseph Carroll,Corporate,San Francisco,California,West,Technology,Copiers,1199.976,3,399.992,2
+755,2015-12-07,2015-12-12,Standard Class,Melanie Seite,Consumer,Los Angeles,California,West,Furniture,Furnishings,79.92,4,19.98,5
+756,2016-09-18,2016-09-22,Standard Class,Nona Balk,Corporate,Jacksonville,Florida,South,Furniture,Tables,383.438,4,95.8595,4
+757,2014-12-29,2015-01-02,Standard Class,Debra Catini,Consumer,Cottage Grove,Minnesota,Central,Office Supplies,Storage,24.56,2,12.28,4
+758,2014-12-29,2015-01-02,Standard Class,Debra Catini,Consumer,Cottage Grove,Minnesota,Central,Technology,Accessories,119.8,4,29.95,4
+759,2017-07-23,2017-07-28,Standard Class,Christine Phan,Corporate,New York City,New York,East,Office Supplies,Binders,13.128,3,4.376,5
+760,2017-09-18,2017-09-22,Standard Class,Barry Französisch,Corporate,Green Bay,Wisconsin,Central,Office Supplies,Paper,22.72,4,5.68,4
+761,2015-08-31,2015-09-05,Standard Class,Andrew Roberts,Consumer,Los Angeles,California,West,Office Supplies,Paper,58.32,9,6.48,5
+762,2017-11-03,2017-11-07,Standard Class,Julie Creighton,Corporate,Atlanta,Georgia,South,Office Supplies,Labels,12.39,3,4.13,4
+763,2015-02-08,2015-02-13,Standard Class,Lisa Hazard,Consumer,Columbus,Ohio,East,Technology,Phones,107.982,3,35.994,5
+764,2014-01-13,2014-01-15,Second Class,Chris Selesnick,Corporate,Bossier City,Louisiana,South,Office Supplies,Envelopes,11.36,2,5.68,2
+765,2014-01-13,2014-01-15,Second Class,Chris Selesnick,Corporate,Bossier City,Louisiana,South,Office Supplies,Envelopes,50.94,3,16.98,2
+766,2014-01-13,2014-01-15,Second Class,Chris Selesnick,Corporate,Bossier City,Louisiana,South,Technology,Accessories,646.74,6,107.79,2
+767,2014-01-13,2014-01-15,Second Class,Chris Selesnick,Corporate,Bossier City,Louisiana,South,Office Supplies,Binders,5.64,3,1.88,2
+768,2014-01-13,2014-01-15,Second Class,Chris Selesnick,Corporate,Bossier City,Louisiana,South,Office Supplies,Storage,572.58,6,95.43,2
+770,2016-05-19,2016-05-24,Standard Class,Laurel Elliston,Consumer,Arlington,Virginia,South,Furniture,Chairs,641.96,2,320.98,5
+771,2017-01-30,2017-02-05,Standard Class,Benjamin Venier,Corporate,Des Moines,Iowa,Central,Office Supplies,Binders,18.28,2,9.14,6
+772,2017-01-30,2017-02-05,Standard Class,Benjamin Venier,Corporate,Des Moines,Iowa,Central,Technology,Phones,207,3,69,6
+773,2017-01-30,2017-02-05,Standard Class,Benjamin Venier,Corporate,Des Moines,Iowa,Central,Office Supplies,Binders,32.35,5,6.47,6
+774,2017-01-30,2017-02-05,Standard Class,Benjamin Venier,Corporate,Des Moines,Iowa,Central,Office Supplies,Binders,7.71,1,7.71,6
+775,2017-01-30,2017-02-05,Standard Class,Benjamin Venier,Corporate,Des Moines,Iowa,Central,Office Supplies,Art,40.3,2,20.15,6
+776,2017-01-30,2017-02-05,Standard Class,Benjamin Venier,Corporate,Des Moines,Iowa,Central,Furniture,Furnishings,34.58,7,4.94,6
+777,2014-06-29,2014-07-06,Standard Class,Dan Lawera,Consumer,Cincinnati,Ohio,East,Office Supplies,Art,32.76,7,4.68,7
+778,2015-08-21,2015-08-23,First Class,Nick Zandusky,Home Office,San Francisco,California,West,Furniture,Chairs,544.008,3,181.336,2
+779,2015-08-21,2015-08-23,First Class,Nick Zandusky,Home Office,San Francisco,California,West,Office Supplies,Paper,59.94,3,19.98,2
+780,2015-08-21,2015-08-23,First Class,Nick Zandusky,Home Office,San Francisco,California,West,Office Supplies,Paper,23.92,4,5.98,2
+781,2015-08-21,2015-08-23,First Class,Nick Zandusky,Home Office,San Francisco,California,West,Office Supplies,Paper,4.28,1,4.28,2
+782,2015-10-03,2015-10-06,Second Class,Bryan Mills,Consumer,Columbus,Ohio,East,Office Supplies,Binders,32.07,5,6.414,3
+783,2015-10-03,2015-10-06,Second Class,Bryan Mills,Consumer,Columbus,Ohio,East,Technology,Accessories,24,2,12,3
+784,2015-10-03,2015-10-06,Second Class,Bryan Mills,Consumer,Columbus,Ohio,East,Furniture,Bookcases,35.49,1,35.49,3
+785,2015-10-03,2015-10-06,Second Class,Bryan Mills,Consumer,Columbus,Ohio,East,Technology,Accessories,47.984,2,23.992,3
+786,2015-05-23,2015-05-28,Standard Class,Erin Ashbrook,Corporate,Columbia,South Carolina,South,Office Supplies,Envelopes,186.69,3,62.23,5
+789,2015-06-26,2015-06-30,Standard Class,Sue Ann Reed,Consumer,Richmond,Virginia,South,Office Supplies,Binders,143.96,4,35.99,4
+790,2015-06-26,2015-06-30,Standard Class,Sue Ann Reed,Consumer,Richmond,Virginia,South,Office Supplies,Storage,15.42,1,15.42,4
+791,2015-06-26,2015-06-30,Standard Class,Sue Ann Reed,Consumer,Richmond,Virginia,South,Office Supplies,Binders,43.04,8,5.38,4
+792,2015-06-26,2015-06-30,Standard Class,Sue Ann Reed,Consumer,Richmond,Virginia,South,Furniture,Chairs,332.94,3,110.98,4
+793,2016-05-20,2016-05-20,Same Day,Joe Kamberova,Consumer,Asheville,North Carolina,South,Technology,Phones,1363.96,5,272.792,0
+794,2014-09-20,2014-09-26,Standard Class,Erica Smith,Consumer,San Francisco,California,West,Office Supplies,Labels,9.96,2,4.98,6
+795,2014-09-20,2014-09-26,Standard Class,Erica Smith,Consumer,San Francisco,California,West,Office Supplies,Paper,21.72,4,5.43,6
+796,2017-09-21,2017-09-26,Standard Class,Rick Hansen,Consumer,Rochester,Minnesota,Central,Office Supplies,Binders,20.16,7,2.88,5
+797,2015-12-24,2015-12-26,First Class,David Bremer,Corporate,Rochester,New York,East,Office Supplies,Paper,132.79,7,18.97,2
+798,2015-12-24,2015-12-26,First Class,David Bremer,Corporate,Rochester,New York,East,Office Supplies,Paper,12.96,2,6.48,2
+799,2015-12-24,2015-12-26,First Class,David Bremer,Corporate,Rochester,New York,East,Office Supplies,Labels,21.56,7,3.08,2
+800,2015-11-27,2015-12-03,Standard Class,Carlos Daly,Consumer,Lake Elsinore,California,West,Furniture,Chairs,283.92,5,56.784,6
+801,2017-02-20,2017-02-23,First Class,Helen Wasserman,Corporate,San Diego,California,West,Furniture,Furnishings,22.23,1,22.23,3
+802,2017-02-20,2017-02-23,First Class,Helen Wasserman,Corporate,San Diego,California,West,Technology,Phones,215.968,2,107.984,3
+803,2016-08-18,2016-08-23,Second Class,Helen Wasserman,Corporate,New York City,New York,East,Office Supplies,Appliances,355.32,9,39.48,5
+804,2016-03-12,2016-03-17,Standard Class,Mike Caudle,Corporate,Monroe,Louisiana,South,Office Supplies,Paper,12.96,2,6.48,5
+805,2017-04-22,2017-04-24,First Class,Gary McGarr,Consumer,San Francisco,California,West,Furniture,Furnishings,18.28,2,9.14,2
+806,2014-11-01,2014-11-07,Standard Class,Russell Applegate,Consumer,Denver,Colorado,West,Office Supplies,Art,43.176,3,14.392,6
+807,2014-11-01,2014-11-07,Standard Class,Russell Applegate,Consumer,Denver,Colorado,West,Technology,Phones,1983.968,4,495.992,6
+808,2015-02-03,2015-02-05,First Class,Allen Armold,Consumer,Omaha,Nebraska,Central,Furniture,Furnishings,28.4,2,14.2,2
+809,2015-02-03,2015-02-05,First Class,Allen Armold,Consumer,Omaha,Nebraska,Central,Technology,Accessories,149.97,3,49.99,2
+810,2014-10-13,2014-10-15,First Class,Zuschuss Carroll,Consumer,Edmonds,Washington,West,Office Supplies,Art,11.52,4,2.88,2
+811,2014-10-13,2014-10-15,First Class,Zuschuss Carroll,Consumer,Edmonds,Washington,West,Furniture,Tables,1298.55,5,259.71,2
+812,2014-10-13,2014-10-15,First Class,Zuschuss Carroll,Consumer,Edmonds,Washington,West,Office Supplies,Appliances,213.92,4,53.48,2
+813,2014-10-13,2014-10-15,First Class,Zuschuss Carroll,Consumer,Edmonds,Washington,West,Technology,Accessories,25.78,2,12.89,2
+814,2017-05-14,2017-05-14,Same Day,Pauline Johnson,Consumer,Santa Ana,California,West,Furniture,Furnishings,18.28,2,9.14,0
+815,2017-05-14,2017-05-14,Same Day,Pauline Johnson,Consumer,Santa Ana,California,West,Technology,Accessories,1399.93,7,199.99,0
+816,2015-03-20,2015-03-23,First Class,Bart Watters,Corporate,Milwaukee,Wisconsin,Central,Office Supplies,Paper,51.84,8,6.48,3
+817,2016-09-15,2016-09-19,Standard Class,Dean Braden,Consumer,Philadelphia,Pennsylvania,East,Office Supplies,Paper,5.344,1,5.344,4
+818,2014-06-28,2014-07-02,Standard Class,Cynthia Arntzen,Consumer,Philadelphia,Pennsylvania,East,Office Supplies,Paper,41.472,8,5.184,4
+819,2014-06-28,2014-07-02,Standard Class,Cynthia Arntzen,Consumer,Philadelphia,Pennsylvania,East,Office Supplies,Binders,3.168,3,1.056,4
+820,2014-06-28,2014-07-02,Standard Class,Cynthia Arntzen,Consumer,Philadelphia,Pennsylvania,East,Furniture,Chairs,1228.465,5,245.693,4
+821,2014-06-28,2014-07-02,Standard Class,Cynthia Arntzen,Consumer,Philadelphia,Pennsylvania,East,Office Supplies,Binders,31.086,3,10.362,4
+822,2014-06-28,2014-07-02,Standard Class,Cynthia Arntzen,Consumer,Philadelphia,Pennsylvania,East,Office Supplies,Paper,335.52,4,83.88,4
+823,2017-06-20,2017-06-27,Standard Class,Toby Ritter,Consumer,Belleville,New Jersey,East,Technology,Accessories,239.97,3,79.99,7
+824,2017-06-20,2017-06-27,Standard Class,Toby Ritter,Consumer,Belleville,New Jersey,East,Office Supplies,Labels,9.82,2,4.91,7
+825,2014-05-09,2014-05-15,Standard Class,Patrick Gardner,Consumer,San Francisco,California,West,Technology,Accessories,67.8,4,16.95,6
+826,2014-05-09,2014-05-15,Standard Class,Patrick Gardner,Consumer,San Francisco,California,West,Technology,Accessories,167.97,3,55.99,6
+827,2017-08-21,2017-08-28,Standard Class,Greg Tran,Consumer,Lakeville,Minnesota,Central,Office Supplies,Fasteners,35,7,5,7
+828,2017-08-21,2017-08-28,Standard Class,Greg Tran,Consumer,Lakeville,Minnesota,Central,Office Supplies,Supplies,37.24,4,9.31,7
+829,2017-08-21,2017-08-28,Standard Class,Greg Tran,Consumer,Lakeville,Minnesota,Central,Office Supplies,Envelopes,15.28,2,7.64,7
+834,2016-07-23,2016-07-27,Standard Class,Jennifer Braxton,Corporate,Tampa,Florida,South,Office Supplies,Art,35.216,2,17.608,4
+835,2016-07-23,2016-07-27,Standard Class,Jennifer Braxton,Corporate,Tampa,Florida,South,Office Supplies,Appliances,23.696,2,11.848,4
+836,2016-07-23,2016-07-27,Standard Class,Jennifer Braxton,Corporate,Tampa,Florida,South,Technology,Machines,265.475,1,265.475,4
+837,2014-09-08,2014-09-13,Second Class,Lisa Hazard,Consumer,Tyler,Texas,Central,Office Supplies,Binders,51.184,4,12.796,5
+838,2017-11-04,2017-11-11,Standard Class,James Lanier,Home Office,Columbia,Tennessee,South,Office Supplies,Paper,9.664,2,4.832,7
+839,2016-03-07,2016-03-12,Standard Class,Ed Braxton,Corporate,Fort Worth,Texas,Central,Technology,Phones,21.072,3,7.024,5
+840,2015-11-20,2015-11-25,Standard Class,Brian Moss,Corporate,New York City,New York,East,Office Supplies,Art,60.45,3,20.15,5
+841,2015-11-20,2015-11-25,Standard Class,Brian Moss,Corporate,New York City,New York,East,Office Supplies,Art,11.52,4,2.88,5
+842,2015-11-20,2015-11-25,Standard Class,Brian Moss,Corporate,New York City,New York,East,Furniture,Bookcases,186.048,4,46.512,5
+843,2016-11-07,2016-11-09,First Class,Eudokia Martin,Corporate,Los Angeles,California,West,Office Supplies,Binders,37.44,4,9.36,2
+844,2016-11-07,2016-11-09,First Class,Eudokia Martin,Corporate,Los Angeles,California,West,Office Supplies,Binders,26.976,4,6.744,2
+845,2016-11-07,2016-11-09,First Class,Eudokia Martin,Corporate,Los Angeles,California,West,Office Supplies,Supplies,11.36,2,5.68,2
+846,2016-11-07,2016-11-09,First Class,Eudokia Martin,Corporate,Los Angeles,California,West,Office Supplies,Labels,14.62,2,7.31,2
+847,2015-10-13,2015-10-17,Standard Class,Art Foster,Consumer,Louisville,Kentucky,South,Technology,Phones,83.72,7,11.96,4
+848,2015-10-13,2015-10-17,Standard Class,Art Foster,Consumer,Louisville,Kentucky,South,Furniture,Chairs,287.94,3,95.98,4
+849,2017-01-01,2017-01-06,Standard Class,Guy Armstrong,Consumer,Lorain,Ohio,East,Furniture,Furnishings,48.896,4,12.224,5
+850,2014-02-07,2014-02-12,Standard Class,Cyma Kinney,Corporate,Linden,New Jersey,East,Technology,Accessories,115.36,7,16.48,5
+851,2016-06-20,2016-06-25,Second Class,Dave Poirier,Corporate,Salinas,California,West,Office Supplies,Art,5.16,2,2.58,5
+852,2016-06-20,2016-06-25,Second Class,Dave Poirier,Corporate,Salinas,California,West,Office Supplies,Paper,38.88,6,6.48,5
+853,2016-05-28,2016-06-04,Standard Class,Valerie Dominguez,Consumer,Jackson,Mississippi,South,Office Supplies,Art,185.88,6,30.98,7
+854,2016-02-19,2016-02-24,Standard Class,Greg Tran,Consumer,New York City,New York,East,Furniture,Furnishings,44.46,2,22.23,5
+855,2016-02-19,2016-02-24,Standard Class,Greg Tran,Consumer,New York City,New York,East,Office Supplies,Storage,242.94,3,80.98,5
+856,2014-08-03,2014-08-08,Standard Class,Berenike Kampe,Consumer,New York City,New York,East,Office Supplies,Paper,39.96,2,19.98,5
+857,2014-08-03,2014-08-08,Standard Class,Berenike Kampe,Consumer,New York City,New York,East,Office Supplies,Supplies,102.3,10,10.23,5
+858,2014-08-03,2014-08-08,Standard Class,Berenike Kampe,Consumer,New York City,New York,East,Office Supplies,Storage,21.36,2,10.68,5
+859,2017-04-10,2017-04-15,Standard Class,Sanjit Jacobs,Home Office,New Brunswick,New Jersey,East,Office Supplies,Paper,7.61,1,7.61,5
+860,2017-04-10,2017-04-15,Standard Class,Sanjit Jacobs,Home Office,New Brunswick,New Jersey,East,Office Supplies,Fasteners,7.16,2,3.58,5
+861,2014-06-09,2014-06-16,Standard Class,Chuck Magee,Consumer,San Francisco,California,West,Office Supplies,Supplies,7.36,2,3.68,7
+862,2014-06-09,2014-06-16,Standard Class,Chuck Magee,Consumer,San Francisco,California,West,Office Supplies,Art,23.1,2,11.55,7
+863,2016-01-05,2016-01-07,Second Class,Anthony Johnson,Corporate,Jacksonville,Florida,South,Technology,Accessories,191.472,6,31.912,2
+864,2016-01-05,2016-01-07,Second Class,Anthony Johnson,Corporate,Jacksonville,Florida,South,Office Supplies,Art,5.248,2,2.624,2
+865,2016-01-05,2016-01-07,Second Class,Anthony Johnson,Corporate,Jacksonville,Florida,South,Technology,Phones,59.184,2,29.592,2
+866,2014-01-10,2014-01-15,Standard Class,Anthony Jacobs,Corporate,Springfield,Virginia,South,Office Supplies,Labels,2.89,1,2.89,5
+867,2014-01-10,2014-01-15,Standard Class,Anthony Jacobs,Corporate,Springfield,Virginia,South,Furniture,Furnishings,51.94,1,51.94,5
+868,2016-09-29,2016-10-02,First Class,Linda Southworth,Corporate,Philadelphia,Pennsylvania,East,Office Supplies,Labels,15.936,4,3.984,3
+870,2016-09-03,2016-09-05,First Class,Paul Knutson,Home Office,Philadelphia,Pennsylvania,East,Office Supplies,Binders,1141.47,5,228.294,2
+871,2016-09-03,2016-09-05,First Class,Paul Knutson,Home Office,Philadelphia,Pennsylvania,East,Technology,Phones,280.782,3,93.594,2
+872,2015-10-19,2015-10-20,First Class,Tracy Blumstein,Consumer,Concord,New Hampshire,East,Office Supplies,Paper,34.44,3,11.48,1
+873,2014-12-10,2014-12-15,Standard Class,Sally Matthias,Consumer,New York City,New York,East,Office Supplies,Paper,11.36,2,5.68,5
+874,2014-12-10,2014-12-15,Standard Class,Sally Matthias,Consumer,New York City,New York,East,Office Supplies,Binders,106.344,7,15.192,5
+875,2017-08-25,2017-08-29,Standard Class,Guy Armstrong,Consumer,Charlotte,North Carolina,South,Office Supplies,Paper,192.16,5,38.432,4
+876,2016-01-17,2016-01-21,Standard Class,Chuck Clark,Home Office,Concord,New Hampshire,East,Furniture,Furnishings,322.59,3,107.53,4
+877,2016-01-17,2016-01-21,Standard Class,Chuck Clark,Home Office,Concord,New Hampshire,East,Technology,Accessories,29.99,1,29.99,4
+878,2016-01-17,2016-01-21,Standard Class,Chuck Clark,Home Office,Concord,New Hampshire,East,Technology,Accessories,371.97,3,123.99,4
+879,2014-09-17,2014-09-21,Standard Class,Anthony Garverick,Home Office,Philadelphia,Pennsylvania,East,Office Supplies,Binders,5.892,4,1.473,4
+880,2017-11-30,2017-12-02,Second Class,Harold Pawlan,Home Office,New York City,New York,East,Office Supplies,Binders,68.472,3,22.824,2
+881,2017-11-30,2017-12-02,Second Class,Harold Pawlan,Home Office,New York City,New York,East,Furniture,Chairs,1242.9,5,248.58,2
+882,2015-10-09,2015-10-13,Standard Class,Dave Kipp,Consumer,Springfield,Virginia,South,Office Supplies,Storage,30.84,2,15.42,4
+883,2017-12-23,2017-12-23,Same Day,Gary Zandusky,Consumer,San Francisco,California,West,Office Supplies,Art,13.48,4,3.37,0
+884,2016-10-22,2016-10-24,First Class,Peter McVee,Home Office,Detroit,Michigan,Central,Furniture,Furnishings,31.4,5,6.28,2
+885,2014-04-29,2014-05-04,Standard Class,Lauren Leatherbury,Consumer,Rochester,New York,East,Furniture,Furnishings,17.46,2,8.73,5
+886,2015-04-25,2015-04-28,Second Class,Jill Stevenson,Corporate,Los Angeles,California,West,Office Supplies,Binders,13.944,3,4.648,3
+887,2017-06-26,2017-07-02,Standard Class,Olvera Toch,Consumer,San Diego,California,West,Office Supplies,Storage,83.76,12,6.98,6
+888,2017-10-14,2017-10-19,Standard Class,Ed Ludwig,Home Office,Columbia,Maryland,East,Office Supplies,Binders,37.66,7,5.38,5
+889,2014-12-09,2014-12-16,Standard Class,Cyma Kinney,Corporate,San Francisco,California,West,Office Supplies,Paper,34.68,6,5.78,7
+890,2017-06-20,2017-06-26,Standard Class,Jeremy Ellison,Consumer,New Rochelle,New York,East,Technology,Accessories,149.95,5,29.99,6
+891,2017-06-20,2017-06-26,Standard Class,Jeremy Ellison,Consumer,New Rochelle,New York,East,Office Supplies,Binders,51.312,3,17.104,6
+892,2017-06-26,2017-06-27,First Class,Tracy Hopkins,Home Office,Detroit,Michigan,Central,Office Supplies,Paper,4.54,1,4.54,1
+893,2017-06-26,2017-06-27,First Class,Tracy Hopkins,Home Office,Detroit,Michigan,Central,Office Supplies,Art,15.92,4,3.98,1
+894,2017-06-26,2017-06-27,First Class,Tracy Hopkins,Home Office,Detroit,Michigan,Central,Technology,Phones,543.92,8,67.99,1
+895,2016-11-10,2016-11-12,First Class,Pamela Coakley,Corporate,San Francisco,California,West,Office Supplies,Storage,155.82,7,22.26,2
+896,2016-11-10,2016-11-12,First Class,Pamela Coakley,Corporate,San Francisco,California,West,Office Supplies,Binders,70.008,3,23.336,2
+897,2016-10-03,2016-10-06,Second Class,Hunter Lopez,Consumer,Houston,Texas,Central,Office Supplies,Envelopes,15.648,2,7.824,3
+898,2014-09-09,2014-09-15,Standard Class,Maribeth Schnelling,Consumer,Detroit,Michigan,Central,Office Supplies,Labels,103.6,7,14.8,6
+899,2017-10-29,2017-10-31,Second Class,George Bell,Corporate,Auburn,New York,East,Office Supplies,Paper,46.96,8,5.87,2
+900,2016-04-10,2016-04-12,First Class,Justin Ritter,Corporate,Springfield,Ohio,East,Office Supplies,Binders,8.904,2,4.452,2
+901,2017-11-11,2017-11-13,First Class,Tamara Dahlen,Consumer,Garland,Texas,Central,Office Supplies,Labels,10.44,5,2.088,2
+902,2017-11-11,2017-11-13,First Class,Tamara Dahlen,Consumer,Garland,Texas,Central,Office Supplies,Binders,18.336,4,4.584,2
+903,2017-09-15,2017-09-17,First Class,Dave Brooks,Consumer,Chicago,Illinois,Central,Technology,Phones,323.976,3,107.992,2
+904,2016-04-08,2016-04-12,Standard Class,Logan Currie,Consumer,Los Angeles,California,West,Office Supplies,Paper,20.04,3,6.68,4
+905,2016-04-08,2016-04-12,Standard Class,Logan Currie,Consumer,Los Angeles,California,West,Office Supplies,Storage,64.96,2,32.48,4
+906,2016-04-08,2016-04-12,Standard Class,Logan Currie,Consumer,Los Angeles,California,West,Office Supplies,Paper,12.96,2,6.48,4
+907,2017-12-30,2018-01-03,Standard Class,Patrick O'Donnell,Consumer,New York City,New York,East,Furniture,Bookcases,323.136,4,80.784,4
+908,2017-12-30,2018-01-03,Standard Class,Patrick O'Donnell,Consumer,New York City,New York,East,Technology,Phones,90.93,7,12.99,4
+909,2017-12-30,2018-01-03,Standard Class,Patrick O'Donnell,Consumer,New York City,New York,East,Office Supplies,Binders,52.776,3,17.592,4
+910,2017-09-02,2017-09-07,Standard Class,Bill Eplett,Home Office,Jackson,Michigan,Central,Technology,Phones,1199.8,4,299.95,5
+911,2017-09-02,2017-09-07,Standard Class,Bill Eplett,Home Office,Jackson,Michigan,Central,Technology,Accessories,1928.78,7,275.54,5
+912,2017-09-02,2017-09-07,Standard Class,Bill Eplett,Home Office,Jackson,Michigan,Central,Office Supplies,Storage,352.38,2,176.19,5
+914,2017-11-27,2017-11-29,First Class,Brian Moss,Corporate,Milwaukee,Wisconsin,Central,Furniture,Furnishings,46.94,1,46.94,2
+915,2017-11-27,2017-11-29,First Class,Brian Moss,Corporate,Milwaukee,Wisconsin,Central,Technology,Accessories,143.73,9,15.97,2
+916,2014-06-15,2014-06-21,Standard Class,Kelly Lampkin,Corporate,San Antonio,Texas,Central,Furniture,Tables,99.918,2,49.959,6
+917,2014-06-15,2014-06-21,Standard Class,Kelly Lampkin,Corporate,San Antonio,Texas,Central,Furniture,Chairs,797.944,4,199.486,6
+918,2014-06-15,2014-06-21,Standard Class,Kelly Lampkin,Corporate,San Antonio,Texas,Central,Office Supplies,Binders,8.568,3,2.856,6
+919,2016-03-05,2016-03-11,Standard Class,Rob Williams,Corporate,Dallas,Texas,Central,Office Supplies,Envelopes,149.352,3,49.784,6
+920,2016-03-05,2016-03-11,Standard Class,Rob Williams,Corporate,Dallas,Texas,Central,Office Supplies,Storage,12.992,1,12.992,6
+921,2014-12-05,2014-12-12,Standard Class,Roy Collins,Consumer,Alexandria,Virginia,South,Office Supplies,Storage,24.56,2,12.28,7
+922,2015-04-11,2015-04-15,Standard Class,Sanjit Engle,Consumer,New York City,New York,East,Technology,Accessories,85.14,3,28.38,4
+923,2015-04-11,2015-04-15,Standard Class,Sanjit Engle,Consumer,New York City,New York,East,Technology,Phones,21.99,1,21.99,4
+924,2015-04-11,2015-04-15,Standard Class,Sanjit Engle,Consumer,New York City,New York,East,Office Supplies,Appliances,406.6,5,81.32,4
+925,2016-09-15,2016-09-20,Standard Class,Adam Hart,Corporate,New York City,New York,East,Office Supplies,Binders,841.568,2,420.784,5
+926,2014-09-13,2014-09-16,First Class,Jessica Myrick,Consumer,Philadelphia,Pennsylvania,East,Office Supplies,Paper,15.552,3,5.184,3
+927,2014-09-13,2014-09-16,First Class,Jessica Myrick,Consumer,Philadelphia,Pennsylvania,East,Technology,Accessories,252,5,50.4,3
+928,2015-10-05,2015-10-09,Standard Class,Joel Jenkins,Home Office,Springfield,Virginia,South,Office Supplies,Art,46.2,4,11.55,4
+929,2015-10-05,2015-10-09,Standard Class,Joel Jenkins,Home Office,Springfield,Virginia,South,Office Supplies,Appliances,28.84,2,14.42,4
+933,2017-09-02,2017-09-06,Standard Class,Ralph Kennedy,Consumer,Philadelphia,Pennsylvania,East,Office Supplies,Paper,12.192,3,4.064,4
+934,2016-06-20,2016-06-24,Standard Class,Catherine Glotzbach,Home Office,Philadelphia,Pennsylvania,East,Office Supplies,Paper,45.056,8,5.632,4
+935,2016-06-20,2016-06-24,Standard Class,Catherine Glotzbach,Home Office,Philadelphia,Pennsylvania,East,Office Supplies,Binders,29.718,6,4.953,4
+936,2016-06-20,2016-06-24,Standard Class,Catherine Glotzbach,Home Office,Philadelphia,Pennsylvania,East,Office Supplies,Paper,15.552,3,5.184,4
+937,2016-06-20,2016-06-24,Standard Class,Catherine Glotzbach,Home Office,Philadelphia,Pennsylvania,East,Office Supplies,Appliances,447.696,2,223.848,4
+938,2017-11-05,2017-11-06,First Class,Ruben Ausman,Corporate,Farmington,New Mexico,West,Technology,Accessories,159.99,1,159.99,1
+939,2015-12-13,2015-12-17,Standard Class,Rachel Payne,Corporate,Riverside,California,West,Office Supplies,Paper,12.96,2,6.48,4
+940,2015-12-13,2015-12-17,Standard Class,Rachel Payne,Corporate,Riverside,California,West,Office Supplies,Appliances,134.48,4,33.62,4
+941,2016-06-19,2016-06-20,First Class,Karen Carlisle,Corporate,San Francisco,California,West,Office Supplies,Paper,17.12,2,8.56,1
+942,2016-12-13,2016-12-20,Standard Class,Rob Williams,Corporate,Torrance,California,West,Office Supplies,Binders,6.096,2,3.048,7
+943,2016-12-13,2016-12-20,Standard Class,Rob Williams,Corporate,Torrance,California,West,Furniture,Tables,1114.272,4,278.568,7
+944,2015-05-29,2015-06-03,Standard Class,John Lucas,Consumer,Seattle,Washington,West,Office Supplies,Paper,32.4,5,6.48,5
+945,2015-05-29,2015-06-03,Standard Class,John Lucas,Consumer,Seattle,Washington,West,Office Supplies,Storage,540.57,3,180.19,5
+946,2015-05-29,2015-06-03,Standard Class,John Lucas,Consumer,Seattle,Washington,West,Office Supplies,Binders,167.76,5,33.552,5
+947,2015-07-26,2015-07-28,First Class,Cynthia Arntzen,Consumer,Mesa,Arizona,West,Furniture,Tables,393.165,3,131.055,2
+948,2017-11-28,2017-12-02,Standard Class,Ross Baird,Home Office,Philadelphia,Pennsylvania,East,Furniture,Furnishings,516.488,7,73.784,4
+949,2017-11-28,2017-12-02,Standard Class,Ross Baird,Home Office,Philadelphia,Pennsylvania,East,Furniture,Furnishings,1007.232,6,167.872,4
+950,2017-11-28,2017-12-02,Standard Class,Ross Baird,Home Office,Philadelphia,Pennsylvania,East,Furniture,Tables,2065.32,12,172.11,4
+951,2017-11-28,2017-12-02,Standard Class,Ross Baird,Home Office,Philadelphia,Pennsylvania,East,Office Supplies,Paper,15.552,3,5.184,4
+952,2017-11-28,2017-12-02,Standard Class,Ross Baird,Home Office,Philadelphia,Pennsylvania,East,Office Supplies,Paper,25.344,6,4.224,4
+953,2017-04-03,2017-04-07,Standard Class,Katherine Hughes,Consumer,Philadelphia,Pennsylvania,East,Furniture,Furnishings,25.472,4,6.368,4
+954,2017-12-28,2018-01-01,Standard Class,Greg Hansen,Consumer,Round Rock,Texas,Central,Office Supplies,Art,27.168,2,13.584,4
+955,2017-12-28,2018-01-01,Standard Class,Greg Hansen,Consumer,Round Rock,Texas,Central,Furniture,Bookcases,78.8528,2,39.4264,4
+956,2017-11-30,2017-12-04,Standard Class,Scott Williamson,Consumer,Jackson,Mississippi,South,Office Supplies,Storage,173.8,5,34.76,4
+957,2017-05-15,2017-05-18,Second Class,Joseph Airdo,Consumer,Phoenix,Arizona,West,Technology,Phones,29.592,1,29.592,3
+958,2017-05-15,2017-05-18,Second Class,Joseph Airdo,Consumer,Phoenix,Arizona,West,Office Supplies,Binders,4.752,2,2.376,3
+959,2017-05-15,2017-05-18,Second Class,Joseph Airdo,Consumer,Phoenix,Arizona,West,Office Supplies,Paper,15.552,3,5.184,3
+960,2015-09-22,2015-09-22,Same Day,Daniel Lacy,Consumer,Oceanside,California,West,Furniture,Furnishings,204.6,2,102.3,0
+961,2017-11-14,2017-11-19,Standard Class,Lindsay Williams,Corporate,San Francisco,California,West,Furniture,Chairs,321.568,2,160.784,5
+962,2015-11-27,2015-12-01,Standard Class,Thomas Brumley,Home Office,Fayetteville,Arkansas,South,Office Supplies,Binders,6.24,2,3.12,4
+963,2016-09-01,2016-09-04,First Class,Cynthia Voltz,Corporate,San Francisco,California,West,Office Supplies,Envelopes,21.88,2,10.94,3
+964,2014-09-22,2014-09-24,Second Class,Maribeth Schnelling,Consumer,Boca Raton,Florida,South,Office Supplies,Labels,4.608,2,2.304,2
+965,2017-04-09,2017-04-11,First Class,Bryan Spruell,Home Office,New York City,New York,East,Office Supplies,Labels,9.82,2,4.91,2
+966,2017-04-09,2017-04-11,First Class,Bryan Spruell,Home Office,New York City,New York,East,Office Supplies,Art,35.97,3,11.99,2
+967,2017-04-09,2017-04-11,First Class,Bryan Spruell,Home Office,New York City,New York,East,Office Supplies,Paper,12.96,2,6.48,2
+968,2017-04-09,2017-04-11,First Class,Bryan Spruell,Home Office,New York City,New York,East,Office Supplies,Paper,191.6,4,47.9,2
+969,2017-04-09,2017-04-11,First Class,Bryan Spruell,Home Office,New York City,New York,East,Office Supplies,Labels,8.64,3,2.88,2
+970,2017-04-09,2017-04-11,First Class,Bryan Spruell,Home Office,New York City,New York,East,Office Supplies,Storage,501.81,3,167.27,2
+971,2014-01-16,2014-01-18,Second Class,Delfina Latchford,Consumer,Philadelphia,Pennsylvania,East,Furniture,Furnishings,127.104,6,21.184,2
+972,2014-01-16,2014-01-18,Second Class,Delfina Latchford,Consumer,Philadelphia,Pennsylvania,East,Technology,Phones,124.2,3,41.4,2
+973,2014-01-16,2014-01-18,Second Class,Delfina Latchford,Consumer,Philadelphia,Pennsylvania,East,Office Supplies,Binders,18.588,2,9.294,2
+974,2014-01-16,2014-01-18,Second Class,Delfina Latchford,Consumer,Philadelphia,Pennsylvania,East,Office Supplies,Labels,30.072,3,10.024,2
+975,2017-10-05,2017-10-08,Second Class,Phillina Ober,Home Office,New York City,New York,East,Technology,Phones,160.93,7,22.99,3
+976,2017-10-05,2017-10-08,Second Class,Phillina Ober,Home Office,New York City,New York,East,Office Supplies,Binders,75.792,3,25.264,3
+977,2017-07-09,2017-07-15,Standard Class,Tamara Dahlen,Consumer,Portland,Oregon,West,Office Supplies,Binders,1.08,2,0.54,6
+978,2017-01-07,2017-01-10,First Class,Bart Watters,Corporate,Detroit,Michigan,Central,Technology,Machines,3059.982,2,1529.991,3
+979,2016-05-30,2016-05-31,First Class,Robert Waldorf,Consumer,Wilmington,North Carolina,South,Office Supplies,Binders,3.282,2,1.641,1
+980,2015-12-09,2015-12-12,First Class,Ken Brennan,Corporate,Columbus,Indiana,Central,Office Supplies,Paper,34.02,3,11.34,3
+981,2016-10-03,2016-10-08,Standard Class,Emily Burns,Consumer,New York City,New York,East,Furniture,Chairs,599.292,6,99.882,5
+982,2014-11-11,2014-11-14,Second Class,Tracy Zic,Consumer,Louisville,Colorado,West,Office Supplies,Art,3.392,1,3.392,3
+983,2014-11-11,2014-11-14,Second Class,Tracy Zic,Consumer,Louisville,Colorado,West,Technology,Phones,559.984,2,279.992,3
+984,2014-11-11,2014-11-14,Second Class,Tracy Zic,Consumer,Louisville,Colorado,West,Furniture,Chairs,603.92,5,120.784,3
+985,2017-09-29,2017-10-05,Standard Class,Ann Steele,Home Office,Pasadena,Texas,Central,Office Supplies,Labels,7.968,2,3.984,6
+986,2017-09-29,2017-10-05,Standard Class,Ann Steele,Home Office,Pasadena,Texas,Central,Office Supplies,Envelopes,27.968,4,6.992,6
+987,2017-09-29,2017-10-05,Standard Class,Ann Steele,Home Office,Pasadena,Texas,Central,Technology,Machines,336.51,3,112.17,6
+988,2015-03-10,2015-03-10,Same Day,Toby Swindell,Consumer,Houston,Texas,Central,Office Supplies,Binders,1.112,2,0.556,0
+989,2017-05-21,2017-05-26,Standard Class,John Grady,Corporate,Auburn,New York,East,Furniture,Furnishings,520.05,5,104.01,5
+990,2017-05-21,2017-05-26,Standard Class,John Grady,Corporate,Auburn,New York,East,Office Supplies,Art,17.97,3,5.99,5
+991,2015-03-29,2015-03-31,Second Class,Sara Luxemburg,Home Office,Jacksonville,Florida,South,Furniture,Chairs,1166.92,5,233.384,2
+992,2016-09-09,2016-09-11,First Class,Troy Staebel,Consumer,New York City,New York,East,Office Supplies,Binders,14.624,2,7.312,2
+993,2016-08-26,2016-08-27,First Class,Roland Fjeld,Consumer,San Jose,California,West,Office Supplies,Fasteners,10.23,3,3.41,1
+994,2016-08-26,2016-08-27,First Class,Roland Fjeld,Consumer,San Jose,California,West,Office Supplies,Paper,154.9,5,30.98,1
+995,2014-05-21,2014-05-25,Standard Class,Mitch Willingham,Corporate,Virginia Beach,Virginia,South,Office Supplies,Binders,2715.93,7,387.99,4
+996,2014-05-21,2014-05-25,Standard Class,Mitch Willingham,Corporate,Virginia Beach,Virginia,South,Technology,Phones,617.97,3,205.99,4
+997,2015-10-28,2015-11-03,Standard Class,Rob Dowd,Consumer,Henderson,Kentucky,South,Office Supplies,Envelopes,10.67,1,10.67,6
+998,2015-10-28,2015-11-03,Standard Class,Rob Dowd,Consumer,Henderson,Kentucky,South,Office Supplies,Storage,36.63,3,12.21,6
+999,2015-10-28,2015-11-03,Standard Class,Rob Dowd,Consumer,Henderson,Kentucky,South,Furniture,Furnishings,24.1,5,4.82,6
+1000,2015-10-28,2015-11-03,Standard Class,Rob Dowd,Consumer,Henderson,Kentucky,South,Furniture,Furnishings,33.11,7,4.73,6
